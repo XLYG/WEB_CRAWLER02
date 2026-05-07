@@ -1,0 +1,6 @@
+这个大学并不是专业列表+详情页面的形式
+https://www.uni-bremen.de/master/fachmaster
+最终使用单页专业简述加单独的入学要求pdf文件，然后在其后加上通用的录取信息
+通用页：https://www.uni-bremen.de/studium/orientieren-bewerben/studienplatzbewerbung/master#c600040
+因为不同专业的近似详情页的内容和结构相差很大且内容量也不同
+也因此每一个专业md文件开头的链接会都是https://www.uni-bremen.de/master/fachmaster

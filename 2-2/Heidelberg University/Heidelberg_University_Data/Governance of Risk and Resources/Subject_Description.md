@@ -1,0 +1,29 @@
+* [Study](/en/study)
+* [All Subjects](/en/study/all-subjects)
+
+# Faculty of Chemistry and Earth Sciences Governance of Risk and Resources
+
+Natural disasters hit societies unprepared, and conflicts over the access to scarce natural resources are increasing worldwide. Students enrolled in ‘Governance of Risk and Resources’ learn how and why nation states fail in dealing with human-environmental problems in a hierarchically regulated manner, and where alternative, more participatory forms of coordinated collective action are promising, particularly at the sub-national, regional and local levels.
+
+Governance, i.e., the coordination of distributed interests and resources to achieve consensual goals, constitutes a process that is continuously reorganized in light of historical and geographical circumstances. Since not every form of coordination is equally appropriate for every situation or at every time and place, a governance design is preceded by profound governance analyses. In addition to the actors who participate in governance processes and assume responsibilities there, communication and steering practices become the focus of the analysis.
+
+The students of the Master's program are trained to identify the common goals, but also the conflicting goals of governance actors. They are able to identify (in)favorable power constellations and resource configurations in governance processes and to develop solutions for restructuring networks, coordination mechanisms and communication processes. In particular, they can evaluate and coordinate heterogeneous as well as complementary knowledge resources for governance. Governance represents a learning process in which knowledge is both input and output. Against the background of new knowledge about climate change, flood risks, forest fires, droughts, economic crises etc., students have learned to design risk governance processes that increases the resilience of societies. By assessing the positive and negative social impacts of the use of water as a scarce resource, the exploitation of the oceans, the extraction and export of oil or mineral resources, etc., students are able to question sustainability issues in contemporary resource governance.
+
+![](https://backend.uni-heidelberg.de/sites/default/files/styles/img_4_3_aspect_0375/public/2018-08/Fotolia_14950709_XXL.jpg?h=cb8029ca&itok=W4I2yLiV)
+
+## Special Features and Characteristics
+
+The Master's program in Governance of Risk and Resources taught at the Heidelberg Center for Latin America (HCLA) in Santiago de Chile is a fee-based course of study that is designed to provide advanced education and professional training. The program is a partnership project of the Geographical Institutes of Heidelberg University, the University of Chile and the Catholic University of Chile and requires English and Spanish language skills. The educational cultures and competencies of the three partners complement each other in the areas of governance research, risk research and resource management as well as in the field of diverse methods of social and geoscientific research.
+
+Students enrolled in the Master's program contribute different professional perspectives and educational backgrounds: Geographers, lawyers, social and political scientists, as well as agricultural, forestry or water engineers, business economists and economists come together in the study program in Santiago de Chile. They have gained their professional experience and technical skills in Chile, Germany, Colombia, Brazil, Peru or Ecuador. This diversity of perspectives and cultures of the students enriches group work as well as joint field research projects, which are organized during the studies on concrete cases in order to analyze governance processes in a problem and solution-oriented way.
+
+* [Institute of Geography](https://www.chemgeo.uni-heidelberg.de/en/study/governance-of-risk-and-resources)
+* [Heidelberg Center Latin America (HCLA)](https://www.hcla.uni-heidelberg.de/en/study-programs/geoscience/msc-governance-of-risk-and-resources)
+
+## Research
+
+Governance research is interdisciplinary, solution-oriented and targets different stages of a governance process where it makes use of a wide range of analytical tools: Governance case analyses usually start with the profound description of the underlying societal problems. What risks do actors face in societies? What conflicts of use for scarce resources exist? To this end, statistical data analysis reveals initial cause-and-effect relationships, which can also be related to space with the help of geographical information systems. This is followed by an actor specific perspective of the analysis, which uses expert interviews to uncover and evaluate the goals and conflicting goals of those involved in governance. Finally, governance research also analyzes aspects of legitimacy in governance networks. To this end, it uses, among other things, social network analysis. Moderation and communication practices are also in the focus of interdisciplinary governance research, as they have a decisive influence on the success of governance.
+
+## Occupational Areas
+
+Graduates of the program are qualified for research-related professional tasks. They work in leading positions in private companies or public entities in the fields of environmental and landscape planning, resource assessment and management, development cooperation, nature and environmental protection, geoecology and eco-management, climate research, urban, regional and national planning, business development, business and political consulting, geoinformatics and remote sensing, press and public relations, and insurance. An above-average degree from the Master's program also qualifies them to continue their studies in international PhD programs.

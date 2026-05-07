@@ -1,0 +1,6 @@
+pdf文件需要进行先一步处理，取前6页
+要是一次出现错误或者失败了可以多试几次，最终都会成功
+失败的443有做断点续连
+这个大学本身还和之前获取的一个大学https://www.uni-giessen.de/de/studium/studienangebot/master/bioinformatik
+有专业合作。对应的专业会直接跳转到对应的页面，属于是完全不同的结构
+采用main进行全量获取同时没有pdf文件

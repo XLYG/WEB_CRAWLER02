@@ -1,0 +1,5 @@
+这个大学的内容非常的乱，获取难度不高
+但是几乎硕士专业没有一个能够算是相对通用的格式
+甚至部分是外部链接的新页面形式，只能选择保底获取其中的main或者content
+https://www.paedagogik.uni-wuerzburg.de/studium/master-adult-education-and-management-in-lifelong-education-ma/application-and-admission/
+是作为一个讲述相对通用的录取规则的网页，我会获取其中内容放在每一个文件的末尾

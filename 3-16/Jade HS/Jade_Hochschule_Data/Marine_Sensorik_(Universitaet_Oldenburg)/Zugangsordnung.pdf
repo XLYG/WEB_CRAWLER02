@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+<html class="uol" lang="de">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<title>Marine Sensorik - Master // Universität Oldenburg</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary">
+<meta name="apple-mobile-web-app-title" content="Carl von Ossietzky Universität Oldenburg">
+
+<link rel="preload" as="style" media="all" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Css/fonts.css?1773820848" >
+<link rel="stylesheet" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Css/fonts.css?1773820848" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/media2click-971342378dad49a9257c5f02f3a6b274.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/ecb3e01623a42af68084ccb4b40d310f-22a4054f4e4bf6048ab32becf81e5f4a.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/ods_osm-507e35bfcfcd9408f7e6eff757c742e2.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/bootstrap.min-7af820273665660a54f38c81255cda59.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-fontawesome-260db9f09fe0ffc4cd158ee90d7d83ea.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/flexslider-429780143b9d89785c5edd21880b4f46.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-flexslider-f187c682eccf30a8812e2ce4bad292bb.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/magnific-popup-79929acdab0b90617a346f45a983ab82.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/owl.carousel.min-452c64c68b5327441bff823abbdeb4b1.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/owl.theme.default-b2970de468c3686373e33fc99c8d591f.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/perfect-scrollbar-add1557bc4eb3451bf4f1b1c94b90bf3.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-fe65f2812d0e72ee5e981b203c4c280c.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/jquery.fancybox.min-3aaa2e5a911485726dc7dc652fad40bd.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/custom-9147b62be02f3581d9bb78a9ca305fdc.css?1773821058" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/813d34f895255febb1e8f81adb68ca31-dcdecc275a37fd799eaea94fcbf1dd2a.css?1773821058" media="all">
+<link href="/_assets/b588bfa53dbc3a320f0887cba9a50956/application.css?1773820801" rel="stylesheet" >
+<link href="/_assets/b588bfa53dbc3a320f0887cba9a50956/Frontend/Css/profile.css?1773820801" rel="stylesheet" >
+<link href="/_assets/b588bfa53dbc3a320f0887cba9a50956/nav-tabs.css?1773820801" rel="stylesheet" >
+
+
+
+<script src="/typo3temp/assets/compressed/hasjs-495539aff52a2ad517bc06e4a9ebede9.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/jquery-3.7.1.min-d06db65ef1eb175a7d53a48c65410a5d.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/popper.min-03ed26ddad18360f795ea7884b213058.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/ekko-lightbox.min-87c3e845f0fbb4c1a180e6305df46979.js?1773821057"></script>
+<script>
+    const m2cLifetime = "7";
+</script>
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/unioltemplate/Resources/Public/Assets/Css/vc_lte_ie9.min.css" media="screen">
+<![endif]-->
+<!--[if IE  8]>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/unioltemplate/Resources/Public/Assets/Css/vc-ie8.min.css" media="screen">
+<![endif]-->
+<script>
+var prefersDarkScheme;
+var currentTheme;
+function checkDarkMode() {
+  prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+  currentTheme = localStorage.getItem("color-mode");
+  if (currentTheme == "dark") {
+    document.documentElement.setAttribute("data-colormode", "dark");
+  } else if (currentTheme == "light") {
+    document.documentElement.setAttribute("data-colormode", "light");
+  } else {
+    if(prefersDarkScheme.matches) {
+      document.documentElement.setAttribute("data-colormode", "system-dark");
+    } else {
+      document.documentElement.setAttribute("data-colormode", "system-light");
+    }
+  }
+  setTimeout(checkDarkMode, 5000);
+  return currentTheme;
+}
+checkDarkMode();
+</script>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon.png?v=3&amp;1773820850">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon-120x120.png?v=3&amp;1773820850" sizes="120x120">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon-152x152.png?v=3&amp;1773820850" sizes="152x152">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/android-chrome-192x192.png?v=3&amp;1773820850" sizes="192x192">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/android-chrome-512x512.png?v=3&amp;1773820850" sizes="512x512">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-16x16.png?v=5&amp;1773820850" sizes="16x16">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-32x32.png?v=4&amp;1773820850" sizes="32x32">
+	<link rel="manifest" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/site.webmanifest?v=1&amp;1773820850">
+	<link rel="mask-icon" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/safari-pinned-tab.svg?v=1&amp;1773820850" color="#0059ab">
+	<link rel="shortcut icon" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-16x16.png?v=5&amp;1773820850">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/mstile-150x150.png?v=1&amp;1773820850">
+	<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+<link rel="canonical" href="https://uol.de/studiengang/marine-sensorik-master-559">
+
+<link rel="alternate" hreflang="de-DE" href="https://uol.de/studiengang/marine-sensorik-master-559">
+<link rel="alternate" hreflang="en-US" href="https://uol.de/en/course-of-study/marine-sensorik-master-559">
+<link rel="alternate" hreflang="x-default" href="https://uol.de/studiengang/marine-sensorik-master-559">
+</head>
+<body id="p15153" class=" t3 header-3 layout0">
+
+
+
+<div id="wrapper" class="one-column">
+    <nav id="sprungnavi">
+	<p><a href="#sprung_sprache" accesskey="1"><strong>Navigation</strong></a> [<code>Access-Key 1</code>]</p>
+	<ul>
+		<li><a id="sprung_sprache" accesskey="8" href="#language_menu" lang="en">Choose other language</a> [<code>Access-Key 8</code>]</li>
+		<li><a id="sprung_inhalt" accesskey="2" href="#content">Zum Inhalt springen</a> [<code>Access-Key 2</code>]</li>
+		<li><a id="sprung_suche" href="#searchform">Zur Suche springen</a> [<code>Access-Key 4</code>]</li>
+		<li><a id="sprung_hauptnavi" accesskey="6" href="#nav-top">Zur Hauptnavigation springen</a> [<code>Access-Key 6</code>]</li>
+		<li><a id="sprung_zielgr" accesskey="9" href="#zielgruppennavi">Zur Zielgruppennavigation springen</a> [<code>Access-Key 9</code>]</li>
+		<li><a id="sprung_bc" accesskey="7" href="#navizeile">Zur Brotkrumennavigation springen</a> [<code>Access-Key 7</code>]</li>
+		<li><a id="sprung_acc" href="/barrierefreiheit">Informationen zur Barrierefreiheit</a></li>
+	</ul>
+</nav>
+
+<header id="header" class="main-header header-3">
+	<div id="header-container" class="container">
+		<div id="uol_logo" class="header-logo">
+			<a title="Carl von Ossietzky Universität Oldenburg - Offen für neue Wege." rel="home" href="/">
+				<img width="132" height="85"
+					src="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/UOL-Logo.svg?1773820850" style="width:132px" alt="Carl von Ossietzky Universität Oldenburg"/>
+
+			</a>
+		</div>
+
+		<div id="mainmenu" class="menu-main-inner">
+			<nav id="nav-mega" role="navigation"><ul id="nav-top" class="nav nav-menu level-1"><li id="menu-item-57057" class="nav-item item-1"><a href="/universitaet" title="Universität">Universität</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/universitaet">InfoPortal Universität</a></li><li id="menu-item-57081" class="menu-item item-1 menu-col-mode-0"><a href="/im-profil" title="Im Profil">Im Profil</a><ul class="level-3"><li><a href="/im-profil" title="Die Universität">Die Universität</a></li><li><a href="/chancengleichheit" title="Chancengleichheit">Chancengleichheit</a></li><li><a href="/digitalisierung" title="Digitalisierung">Digitalisierung</a></li><li><a href="/klimaschutz-nachhaltigkeit" title="Klimaschutz und Nachhaltigkeit">Klimaschutz und Nachhaltigkeit</a></li><li><a href="/leitbild-lehre" title="Leitbild für die Lehre">Leitbild für die Lehre</a></li><li><a href="/im-profil/geschichte" title="Daten zur Geschichte">Daten zur Geschichte</a></li><li><a href="/im-profil/namensgebung-chronologie" title="Namensgebung – Carl von Ossietzky">Namensgebung – Carl von Ossietzky</a></li><li><a href="/im-profil/persoenlichkeiten" title="Persönlichkeiten">Persönlichkeiten</a></li><li><a href="/in-bildern" title="Universität in Bildern">Universität in Bildern</a></li><li><a href="/kontakt" title="Kontakt / Anfahrt / Lageplan">Kontakt / Anfahrt / Lageplan</a></li></ul></li><li id="menu-item-57072" class="menu-item item-2 menu-col-mode-0"><a href="/aktuelles" title="Aktuelles">Aktuelles</a><ul class="level-3"><li><a href="/pressedienst" title="Pressedienst">Pressedienst</a></li><li><a href="/jobs" title="Stellenangebote">Stellenangebote</a></li><li><a href="/veranstaltungen" title="Veranstaltungskalender">Veranstaltungskalender</a></li><li><a href="/einblicke" title="EINBLICKE - Forschungsmagazin">EINBLICKE - Forschungsmagazin</a></li><li><a href="/presse/uni-info" title="UNI-INFO - Hochschulzeitung">UNI-INFO - Hochschulzeitung</a></li><li><a href="/aktuelles/news-feeds" title="News-Feeds">News-Feeds</a></li><li><a href="/zahlen-fakten" title="Zahlen und Fakten">Zahlen und Fakten</a></li><li><a href="/50jahre" title="Jubiläum 2024: 50 Jahre UOL">Jubiläum 2024: 50 Jahre UOL</a></li></ul></li><li id="menu-item-57058" class="menu-item item-3 menu-col-mode-0"><a href="/einrichtungen" title="Organe und Einrichtungen">Organe und Einrichtungen</a><ul class="level-3"><li><a href="/praesidium" title="Präsidium">Präsidium</a></li><li><a href="/gremien" title="Gremien">Gremien</a></li><li><a href="/verwaltung" title="Zentrale Verwaltung sowie Referate und Stabsstellen des Präsidiums">Zentrale Verwaltung sowie Referate und Stabsstellen des Präsidiums</a></li><li><a href="/bis" title="Universitätsbibliothek">Universitätsbibliothek</a></li><li><a href="/einrichtungen" title="Einrichtungen (A-Z)">Einrichtungen (A-Z)</a></li><li><a href="/dezernat1/organigramm-der-universitaet" title="Organigramm der Universität">Organigramm der Universität</a></li></ul></li><li id="menu-item-57065" class="menu-item item-4 menu-col-mode-0"><a href="/fakultaeten" title="Fakultäten">Fakultäten</a><ul class="level-3"><li><a href="/fk1" title="Fakultät I - Bildungs- und Sozialwissenschaften">Fakultät I - Bildungs- und Sozialwissenschaften</a></li><li><a href="/fk2" title="Fakultät II - Informatik, Wirtschafts- und Rechtswissenschaften">Fakultät II - Informatik, Wirtschafts- und Rechtswissenschaften</a></li><li><a href="/fk3" title="Fakultät III - Sprach- und Kulturwissenschaften">Fakultät III - Sprach- und Kulturwissenschaften</a></li><li><a href="/fk4" title="Fakultät IV - Human- und Gesellschaftswissenschaften">Fakultät IV - Human- und Gesellschaftswissenschaften</a></li><li><a href="/fk5" title="Fakultät V - Mathematik und Naturwissenschaften">Fakultät V - Mathematik und Naturwissenschaften</a></li><li><a href="/fk6" title="Fakultät VI - Medizin und Gesundheitswissenschaften">Fakultät VI - Medizin und Gesundheitswissenschaften</a></li></ul></li></ul></li><li id="menu-item-57022" class="nav-item item-2"><a href="/studium" title="Studium">Studium</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/studium">InfoPortal Studium</a></li><li id="menu-item-57046" class="menu-item item-1 menu-col-mode-0"><a href="/studium/studienentscheidung" title="Studienentscheidung">Studienentscheidung</a><ul class="level-3"><li><a href="/studium/studienangebot" title="Studienangebot">Studienangebot</a></li><li><a href="/lehrkraeftebildung/studieninteressierte" title="Lehramt">Lehramt</a></li><li><a href="/studium/beratung-studieninteressierte" title="Beratung Studieninteressierte">Beratung Studieninteressierte</a></li><li><a href="/studium/angebote-zur-studienorientierung" title="Angebote zur Studienorientierung">Angebote zur Studienorientierung</a></li><li><a href="/hit" title="Hochschulinformationstag">Hochschulinformationstag</a></li><li><a href="/studium/bewerben" title="Bewerben und Einschreiben">Bewerben und Einschreiben</a></li><li><a href="/studium/studienberechtigung" title="Studium ohne Abitur">Studium ohne Abitur</a></li><li><a href="/studium/vom-beruf-ins-studium" title="Vom Beruf ins Studium">Vom Beruf ins Studium</a></li><li><a href="/studium/campusleben" title="Campusleben">Campusleben</a></li><li><a href="/studium/finanzierung" title="Studienfinanzierung">Studienfinanzierung</a></li></ul></li><li id="menu-item-57036" class="menu-item item-2 menu-col-mode-0"><a href="/studium/studium-organisieren" title="Studium organisieren">Studium organisieren</a><ul class="level-3"><li><a href="/studium/studieneinstieg" title="Studieneinstieg">Studieneinstieg</a></li><li><a href="/studium/beratung-studierende" title="Beratung Studierende">Beratung Studierende</a></li><li><a href="https://elearning.uni-oldenburg.de/dispatch.php/search/angebot?cancel_login=1" target="target=_blank" rel="noreferrer" title="Veranstaltungsverzeichnis">Veranstaltungsverzeichnis</a></li><li><a href="/studium/erstsemester/studienplanung/stundenplan" title="Studienplanung">Studienplanung</a></li><li><a href="/studium/semestertermine" title="Semestertermine">Semestertermine</a></li><li><a href="/studium/pruefungen" title="Prüfungen">Prüfungen</a></li><li><a href="/anerkennung" title="Anerkennung">Anerkennung</a></li><li><a href="/studium/studierendenstatus" title="Studierendenstatus">Studierendenstatus</a></li><li><a href="/studium/workshops" title="Veranstaltungen">Veranstaltungen</a></li><li><a href="/studium/gebuehren/semesterbeitraege" title="Semesterbeiträge">Semesterbeiträge</a></li></ul></li><li id="menu-item-57029" class="menu-item item-3 menu-col-mode-0"><a href="/studium/perspektiven-nach-dem-studium" title="Perspektiven nach dem Studium">Perspektiven nach dem Studium</a><ul class="level-3"><li><a href="/karriereberatung/karriereportal" title="KarrierePortal">KarrierePortal</a></li><li><a href="/careerday" title="Career Day">Career Day</a></li><li><a href="/karriereberatung" title="Karriereberatung">Karriereberatung</a></li><li><a href="/zskb/beratung/promovieren" title="Promovieren">Promovieren</a></li><li><a href="/alumni" title="Alumni">Alumni</a></li><li><a href="/giz" title="Existenzgründung">Existenzgründung</a></li></ul></li><li id="menu-item-57023" class="menu-item item-4 menu-col-mode-0"><a href="/c3l" title="Lebenslanges Lernen">Lebenslanges Lernen</a><ul class="level-3"><li><a href="/c3l" title="Berufsbegleitende Studiengänge und Weiterbildungen">Berufsbegleitende Studiengänge und Weiterbildungen</a></li><li><a href="/lehre/hochschuldidaktik/zertifikat" title="Hochschuldidaktische Weiterbildung">Hochschuldidaktische Weiterbildung</a></li><li><a href="/gasthoerstudium" title="Gasthörstudium">Gasthörstudium</a></li><li><a href="/c3l/offene-hochschule" title="Offene Hochschule">Offene Hochschule</a></li><li><a href="/weiterbildung" title="Weiterbildungsangebote Übersicht">Weiterbildungsangebote Übersicht</a></li></ul></li></ul></li><li id="menu-item-56994" class="nav-item item-3"><a href="/forschung" title="Forschung">Forschung</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/forschung">InfoPortal Forschung</a></li><li id="menu-item-57014" class="menu-item item-1 menu-col-mode-0"><a href="/forschung" title="Forschung">Forschung</a><ul class="level-3"><li><a href="/profile-schwerpunkte" title="Profile und Schwerpunkte">Profile und Schwerpunkte</a></li><li><a href="/exzellenzstrategie" title="Exzellenzstrategie">Exzellenzstrategie</a></li><li><a href="/forschung/koordinierte-forschungsprogramme" title="Koordinierte Forschungsprogramme">Koordinierte Forschungsprogramme</a></li><li><a href="/forschung/gefoerderte-nachwuchsgruppen" title="Geförderte Nachwuchsgruppen">Geförderte Nachwuchsgruppen</a></li><li><a href="/forschung/zentren" title="Zentren">Zentren</a></li><li><a href="/forschung/ausseruniversitaere-forschungseinrichtungen" title="Außeruniversitäre Forschungseinrichtungen">Außeruniversitäre Forschungseinrichtungen</a></li><li><a href="/forschung/qualitaetssicherung" title="Qualitätssicherung">Qualitätssicherung</a></li><li><a href="/tiere-und-tierversuche" title="Tiere und Tierversuche an der Universität Oldenburg">Tiere und Tierversuche an der Universität Oldenburg</a></li></ul></li><li id="menu-item-60096" class="menu-item item-2 menu-col-mode-0"><a href="/forschung/akademische-karrierewege" title="Akademische Karrierewege">Akademische Karrierewege</a><ul class="level-3"><li><a href="/forschung/akademische-karrierewege/strategisches" title="Strategisches">Strategisches</a></li><li><a href="/forschung/akademische-karrierewege/promotionsinteressierte" title="Promotionsinteressierte">Promotionsinteressierte</a></li><li><a href="/forschung/akademische-karrierewege/promovierende" title="Promovierende">Promovierende</a></li><li><a href="/forschung/akademische-karrierewege/postdocs" title="Postdocs">Postdocs</a></li><li><a href="/forschung/akademische-karrierewege/juniorprofessur-und-nachwuchsgruppenleitung" title="Juniorprofessur und Nachwuchsgruppenleitung">Juniorprofessur und Nachwuchsgruppenleitung</a></li><li><a href="/forschung/akademische-karrierewege/fuehrungskraefte-in-der-wissenschaft" title="Führungskräfte in der Wissenschaft">Führungskräfte in der Wissenschaft</a></li><li><a href="/forschung/akademische-karrierewege/allianzen-und-netzwerke" title="Allianzen und Netzwerke">Allianzen und Netzwerke</a></li></ul></li><li id="menu-item-56995" class="menu-item item-3 menu-col-mode-0"><a href="/forschungsfoerderung" title="Förderung und Beratung">Förderung und Beratung</a><ul class="level-3"><li><a href="/forschungsfoerderung/foerderung-durch-die-universitaet/young-researchers-fellowship" title="Förderung durch die Universität">Förderung durch die Universität</a></li><li><a href="/forschungsfoerderung/nationale-foerderung" title="Nationale Förderung">Nationale Förderung</a></li><li><a href="/forschungsfoerderung/internationale-foerderung" title="Internationale Förderung">Internationale Förderung</a></li><li><a href="/forschungsfoerderung/qualifizierungsphase" title="Förderung in Qualifizierungsphasen">Förderung in Qualifizierungsphasen</a></li><li><a href="/forschungsfoerderung/wissenschaftliche-preise-und-weitere-foerdermassnahmen" title="Weitere Fördermaßnahmen">Weitere Fördermaßnahmen</a></li></ul></li></ul></li><li id="menu-item-113611" class="nav-item item-4"><a href="/transfer" title="Transfer">Transfer</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/transfer">InfoPortal Transfer</a></li><li id="menu-item-113653" class="menu-item item-1 menu-col-mode-0"><a href="/transfer/wissenstransfer" title="Wissenstransfer">Wissenstransfer</a><ul class="level-3"><li><a href="/transfer/wissenstransfer/wissenschaftskommunikation" title="Wissenschaftskommunikation">Wissenschaftskommunikation</a></li><li><a href="/transfer/wissenstransfer/wissenschaftskommunikation/region" title="Transfer in die Region">Transfer in die Region</a></li><li><a href="/c3l" title="Lebenslanges Lernen (C3L)">Lebenslanges Lernen (C3L)</a></li><li><a href="/veranstaltungen/kindercampus" title="KinderCampus">KinderCampus</a></li></ul></li><li id="menu-item-113654" class="menu-item item-2 menu-col-mode-0"><a href="/transfer/technologietransfer-und-patente" title="Technologietransfer">Technologietransfer</a><ul class="level-3"><li><a href="/transfer/technologietransfer-und-patente/patente-und-schutzrechte" title="Patente und Schutzrechte">Patente und Schutzrechte</a></li><li><a href="/transfer/an-institute" title="An-Institute">An-Institute</a></li><li><a href="/transfer/technologietransfer-und-patente/hochschule-und-wirtschaft" title="Hochschule und Wirtschaft: Unternehmenskooperationen">Hochschule und Wirtschaft: Unternehmenskooperationen</a></li></ul></li><li id="menu-item-113655" class="menu-item item-3 menu-col-mode-0"><a href="/giz" title="Gründungsförderung">Gründungsförderung</a><ul class="level-3"><li><a href="/giz" title="Gründungs- und Innovationszentrum (GIZ)">Gründungs- und Innovationszentrum (GIZ)</a></li><li><a href="/giz/gruendungsberatung" title="Beratung und Fördermittel">Beratung und Fördermittel</a></li><li><a href="/giz/veranstaltungen" title="Formate und Veranstaltungen">Formate und Veranstaltungen</a></li><li><a href="/giz/gruendungsportraits" title="Startup-Portraits">Startup-Portraits</a></li><li><a href="/giz/lehre" title="Lehrstühle für Entrepreneurship &amp; Innovationsmanagement">Lehrstühle für Entrepreneurship & Innovationsmanagement</a></li><li><a href="/giz/ueber-das-giz/netzwerk" title="Netzwerke &amp; Partnerschaften">Netzwerke & Partnerschaften</a></li></ul></li><li id="menu-item-113656" class="menu-item item-4 menu-col-mode-0"><a href="/transfer/orte-des-transfers" title="Orte des Transfers">Orte des Transfers</a><ul class="level-3"><li><a href="/transfer/angebote-am-innovationscampus" title="Innovationscampus">Innovationscampus</a></li><li><a href="/transfer/schlaues-haus-oldenburg" title="Schlaues Haus Oldenburg (SHO)">Schlaues Haus Oldenburg (SHO)</a></li><li><a href="/diz/olela" title="Lehr-Lern-Räume">Lehr-Lern-Räume</a></li><li><a href="/botgarten" title="Botanischer Garten">Botanischer Garten</a></li></ul></li></ul></li><li id="menu-item-56972" class="nav-item item-5"><a href="/international" title="International">International</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/international">InfoPortal Internationales</a></li><li id="menu-item-56988" class="menu-item item-1 menu-col-mode-0"><a href="/willkommen-in-oldenburg" title="Willkommen in Oldenburg">Willkommen in Oldenburg</a><ul class="level-3"><li><a href="/internationale-studierende" title="Internationale Studierende (Studium mit Abschluss)">Internationale Studierende (Studium mit Abschluss)</a></li><li><a href="/austauschstudium" target="_blank" title="Internationale Austauschstudierende">Internationale Austauschstudierende</a></li><li><a href="/forschen-und-arbeiten-in-oldenburg/internationale-promovierende" title="Internationale Promovierende">Internationale Promovierende</a></li><li><a href="/forschen-und-arbeiten-in-oldenburg" title="Internationale WissenschaftlerInnen / Post-Docs / Personal">Internationale WissenschaftlerInnen / Post-Docs / Personal</a></li><li><a href="/gefluechtete" title="Geflüchtete">Geflüchtete</a></li></ul></li><li id="menu-item-56982" class="menu-item item-2 menu-col-mode-0"><a href="/international#c315122" title="Wege ins Ausland">Wege ins Ausland</a><ul class="level-3"><li><a href="/wege-ins-ausland" title="Studierende">Studierende</a></li><li><a href="/forschung/akademische-karrierewege/promovierende#c758454" title="Promovierende">Promovierende</a></li><li><a href="/forschung/akademische-karrierewege/postdocs#c691438" title="Post-Docs">Post-Docs</a></li><li><a href="/io/foerderung-internationaler-mobilitaet-und-kooperation" title="WissenschaftlerInnen">WissenschaftlerInnen</a></li><li><a href="/erasmus-stt" title="Hochschulpersonal">Hochschulpersonal</a></li></ul></li><li id="menu-item-56978" class="menu-item item-3 menu-col-mode-0"><a href="/international" title="Weltweit vernetzt">Weltweit vernetzt</a><ul class="level-3"><li><a href="/partneruniversitaeten" title="Partnerhochschulen">Partnerhochschulen</a></li><li><a href="/partneruniversitaeten/strategische-partneruniversitaeten" title="Strategische Partneruniversitäten">Strategische Partneruniversitäten</a></li><li><a href="/erasmus" title="Erasmus+ Programm">Erasmus+ Programm</a></li><li><a href="/international/projekte" title="Internationales Projektschaufenster">Internationales Projektschaufenster</a></li><li><a href="/partneruniversitaeten/subsahara-afrika" title="Fokus: Subsahara-Afrika">Fokus: Subsahara-Afrika</a></li><li><a href="/internationale-projektfoerderung" title="Förderung internationaler Projekte">Förderung internationaler Projekte</a></li><li><a href="/io/nationaler-kodex" title="Nationaler Kodex Ausländerstudium">Nationaler Kodex Ausländerstudium</a></li></ul></li><li id="menu-item-56973" class="menu-item item-4 menu-col-mode-0"><a href="/international#c315124" title="Internationale Hochschule">Internationale Hochschule</a><ul class="level-3"><li><a href="/internationalisierungsstrategie" title="Internationalisierungsstrategie">Internationalisierungsstrategie</a></li><li><a href="/studium/internationale-studiengaenge" title="Internationale Studiengänge">Internationale Studiengänge</a></li><li><a href="/sprachenzentrum" title="Sprachangebote">Sprachangebote</a></li><li><a href="/internationalisierung-zu-hause" title="Vernetzung von Studierenden">Vernetzung von Studierenden</a></li><li><a href="/glossar" title="Deutsch-Englische Terminologie">Deutsch-Englische Terminologie</a></li><li><a href="/lehramtinternational" title="Lehramt.International">Lehramt.International</a></li></ul></li></ul></li></ul></nav>
+		</div>
+
+		
+		<ul id="service_nav" class="nav nav-pills pull-right nav-service">
+			<li id="service_lang">
+				<a href="#tab-language-menu-mobile" data-toggle="tab"><i class="fa fa-globe"></i></a>
+			</li>
+			<li id="service_colormode">
+				<a href="#tab-colormode-mobile" data-toggle="tab" title="Dark mode"><i class="fa fa-adjust"></i></a>
+			</li>
+			<li id="service_search">
+				<a href="#tab-search-mobile" accesskey="4" data-toggle="tab"><i class="fa fa-search"></i></a>
+			</li>
+			<li id="service_info">
+				<a href="#tab-info-mobile" data-toggle="tab"><i class="fa fa-info"></i></a>
+			</li>
+			<li id="service_login">
+				<a href="#tab-login-mobile" data-toggle="tab"><i class="fa fa-sign-in"></i></a>
+			</li>
+		</ul>
+		
+
+		<div class="x-nav-menu-toggle">
+			<div class="x-nav-menu-toggle-inner">
+				<div class="x-nav-menu-toggle-icon"><span></span></div>
+			</div>
+		</div>
+
+		<div id="tab-mobile" class="tab-content">
+			<div class="tab-pane fade popover" id="tab-language-menu-mobile">
+				<h4 class="lang_de">Sprache wechseln</h4>
+				<h4 class="lang_en">Change Language</h4>
+					
+					<ul id="language_menu_mobile" class="language-menu">
+						
+							
+									<li class="CUR flag_de">
+										<span class="langcode">de</span>Deutsch
+									</li>
+								
+						
+							
+									
+										<li class="NO SPC flag_en">
+											<a class="linked-language" href="/en/course-of-study/marine-sensorik-master-559" title="English"><span class="langcode">en</span>English</a>
+										</li>
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+					</ul>
+					
+
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-colormode-mobile">
+				<h4 class="lang_de">Hell-/Dunkelmodus</h4><h4 class="lang_en">Light mode / Dark mode</h4>
+				<div id="colormode-wrap"><a class="color-mode__btn system"><span></span><b class="lang_de">Systemstandard</b><b class="lang_en">System standard</b></a>
+					<a class="color-mode__btn light"><span></span><b class="lang_de">Hell</b><b class="lang_en">Light</b></a>
+					<a class="color-mode__btn dark"><span></span><b class="lang_de">Dunkel</b><b class="lang_en">Dark</b></a>
+					<!-- div class="colormode-bw"><input id="colormode_bw" name="colormodebw" type="checkbox"><label for="colormode_bw"><span class="lang_de">schwarz-weiß</span></label></div -->
+
+				</div>
+				<p class="text-center" style="margin-bottom:0"><a href="https://uol.de/p88187" class="button_inline lang_de">Info und Anleitung</a>
+				<a href="https://uol.de/p88187en" class="button_inline lang_en">Info and instruction</a>
+				</p>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-search-mobile">
+				<div id="search-wrap">
+					<label for="suchfeld"><span class="lang_de">Suche</span> <span class="lang_en">Search</span></label>
+					<form role="search" class="search-form" method="get" action="/suche" accept-charset="utf-8">
+						<input type="text" value="" name="q" id="suchfeld">
+						<p style="padding-left:2px"><input type="checkbox" id="s_extsuche" name="extsuche" value="goo" checked="checked" style="margin-right:4px"><label for="s_extsuche" style="cursor:pointer">&nbsp;<span class="lang_en">Embed&nbsp;</span><img src="https://uol.de/img/objekte/google.png" title="Google" alt="Google" style="height:1.3em;"><span class="lang_de">-Suche einbinden</span><span class="lang_en">&nbsp;search</span></label>
+							<span class="google-dsgvo-hinweis lang_de">(Mit der Aktivierung der Google-Suche bestätigen Sie, dass Sie mit der Einbindung und der dazu erforderlichen Datenübermittlung an Google einverstanden sind.)</span>
+							<span class="google-dsgvo-hinweis lang_en">(By activating Google Search, you confirm that you agree to the integration and the necessary data transfer to Google.)</span>
+							<script>document.getElementById("s_extsuche").checked = localStorage.getItem("uol_extsuche") == 'goo' ? true : false;</script>
+							<input type="hidden" name="ie" value="utf-8">
+							<input type="hidden" name="oe" value="utf-8">
+							<input type="hidden" name="cx" value="009619950304644246032:tmpbaar2o8i">
+							<input type="hidden" name="cof" value="FORID:9">
+							<input type="hidden" name="t3f" value="j">
+
+						</p>
+						<button type="submit"><span class="lang_de">suchen</span><span class="lang_en">search</span></button>
+					</form>
+				</div>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-info-mobile">
+				<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/alumni" title="Alumni Relations">Alumni</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/jav" title="Auszubildende">Auszubildende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/berufsausbildung" title="Berufsausbildungs-Interessierte">Berufsausbildungs-Interessierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/beschaeftigte" title="Informationen für Beschäftigte">Beschäftigte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/ehemalige" title="Ehemalige Beschäftigte">Ehemalige Beschäftigte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studieneinstieg" title="Erstsemester">Erstsemester</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/gasthoerstudium" title="Gasthörende">Gasthörende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/gefluechtete" title="Angebote und Programme für Geflüchtete">Geflüchtete</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/giz" title="Gründungsinteressierte">Gründungsinteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/willkommen-in-oldenburg" title="Internationale">Internationale</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/pressedienst" title="Journalistinnen und Journalisten">Journalistinnen und Journalisten</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/lehre" title="Für Lehrende und Lernende">Lehrende und Lernende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studienentscheidung" title="Studieninteressierte">Studieninteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studium-organisieren" title="Studierende">Studierende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/unternehmen" title="Informationen für Unternehmen">Unternehmen</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/weiterbildung" title="Weiterbildungsinteressierte">Weiterbildungsinteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/forschung/akademische-karrierewege" title="Wissenschaftlicher Nachwuchs">Wissenschaftl. Nachwuchs</a></li></ul>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-login-mobile">
+				<h4>Login</h4>
+				<ul class="cleanmenu geweitet logins">
+					<li id="studip-mobil">
+						<a id="siplogo" class="loginlink" href="https://elearning.uni-oldenburg.de"
+							 title="Stud.IP - Campus- und Lernmanagementsystem ">CampusPortal&nbsp;<span style="display: inline-block; background-image: url(/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/studip_logo.svg?v=1723061785); height: 22px; width: 64px; background-size: contain; background-repeat: no-repeat;"></span>
+						</a>
+					</li>
+					<li id="peoeip-desktop">
+						<a id="peoeiplink" class="loginlink" href="https://personalentwicklung.elearning.uni-oldenburg.de/" title="Personalweiterbildung PEOE.IP"><span class="lang_de">Personalweiterbildung</span><span class="lang_en">Staff training</span>&nbsp;<span id="head_peoeiplogo" style="display: inline-block; background-image: url(/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/peoeip-logo.svg?v=1723061785); height: 22px; width: 64px; background-size: contain; background-repeat: no-repeat;"></span>
+					  </a>
+					</li>
+					<li id="verwportal-desktop"><a id="verwaltlink" class="loginlink" href="https://uol.de/verwaltungsportal" title="Portal der Verwaltung"><span class="lang_de">Portal der Verwaltung</span><span class="lang_en">Portal of the Administration</span></a>
+					</li>
+					<li id="bewerbungsportale"><h4>Bewerbungsportal für Studienplätze</h4>
+<ul class="geweitet"><li data-list-item-id="e8d1755709caadd05829580f6b0b7d757"><a href="https://stums.uni-oldenburg.de/">Bachelor</a></li><li data-list-item-id="ed4067a53b2ccf53d283dc5ae62d28b84"><a href="https://stums.uni-oldenburg.de/">Staatsexamen höheres Semester</a></li><li data-list-item-id="e7685a7bbbdd18a8872aa0292c5a43880"><a href="https://stums.uni-oldenburg.de/">Master</a></li><li data-list-item-id="e4e1a29274fd3fae0d058925706e838e9"><a href="https://stums.uni-oldenburg.de/">Promotion</a></li></ul></li>
+
+				</ul>
+
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+		</div>
+	</div>
+
+</header>
+
+    <div id="wrapper-content" class="clearfix">
+			  
+
+
+
+
+
+
+
+
+
+
+
+<div id="instbar">
+    <div class="inner">
+
+        
+
+        
+        
+        
+            <div class="einr">
+                <a title="InfoPortal Studium" href="/studium">
+                    InfoPortal Studium
+                </a>
+            </div>
+        
+        
+        
+    </div>
+</div>
+
+        <main class="site-content-page">
+					<div class="container">
+            
+    <div id="content">
+
+			<div id="content_header">
+				
+
+
+
+
+    
+
+
+				<div id="navizeile_platzhalter"><nav id="navizeile" aria-label="breadcrumb"><span id="bclabel">Navigation:</span><ol aria-describedby="bclabel"><li id="navp3" class="bcitem hide-sub- curifsub"><a href="/" target="_top" class="bclink"><span>UOL</span></a><ul class="sublinks" id="navcount3"><li><a href="/universitaet" target="_top">Universität</a></li><li><a href="/studium" target="_top">Studium</a></li><li><a href="/forschung" target="_top">Forschung</a></li><li><a href="/transfer" target="_top">Transfer</a></li><li><a href="/international" target="_top">International</a></li><li><a href="/weiterbildung" target="_top">Weiterbildung</a></li></ul></li><li id="navp15145" class="bcitem hide-sub- curifsub"><a href="/studium" target="_top" class="bclink"><span>Studium</span></a><ul class="sublinks" id="navcount15145"><li><a href="/studium/studienangebot" target="_top">Studienangebot</a></li><li><a href="/studium/studienentscheidung" target="_top">Studienentscheidung</a></li><li><a href="/studium/bewerben" target="_top">Bewerben und Einschreiben</a></li><li><a href="/studium/studium-organisieren" target="_top">Studium organisieren</a></li><li><a href="/studium/stipendien" target="_top">Stipendien</a></li><li><a href="/studium/campusleben" target="_top">Campusleben</a></li><li><a href="/studium/perspektiven-nach-dem-studium" target="_top">Perspektiven nach Studium</a></li><li><a href="/studium/service-beratung" target="_top">Service und Beratung</a></li></ul></li><li id="navp15151" class="bcitem hide-sub- curifsub"><a href="/studium/studienangebot" target="_top" class="bclink"><span>Studienangebot</span></a><ul class="sublinks" id="navcount15151"><li><a href="/studienangebot" target="_top">Studiengänge A-Z</a></li><li><a href="/studium/studienaufbau" target="_top">Studienaufbau</a></li><li><a href="/studium/lehramt" target="_top">Lehramt</a></li><li><a href="/studium/professionalisierungsbereich" target="_top">Professionalisierungsbereich</a></li></ul></li></ol></nav></div>
+				
+
+
+
+    <div id="headline">
+        <h1>Marine Sensorik - Master</h1>
+    </div>
+
+
+			</div>
+        <div id="main" tabindex="0" class="col-lg-12">
+					
+
+
+
+    <div id="headline_content">
+        <h1>Marine Sensorik - Master</h1>
+    </div>
+
+
+					
+					
+            
+							
+
+	
+			<div id="c41514" class="frame frame-default frame-type-list frame-layout-0 zsb_element_profil closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+				
+
+    
+        
+<div class="zsb_container"><div class="container zsb_tab_container"><ul class="nav zsb-nav-tabs"><li><a class="active" href="/studiengang/marine-sensorik-master-559">
+					Profil
+				</a></li><li><a href="/studiengang/bewerben/marine-sensorik-master-559/freshman/de">
+					Bewerben
+				</a></li><li><a href="/studiengang/pruefungen/marine-sensorik-master-559">
+					Prüfungen
+				</a></li></ul></div><div class="ce-bodytext"></div><div></div><div class="ka-panel open zsb-profile-element-profil"><header><h2>Ausrichtung und Ziele</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Der Masterstudiengang Marine Sensorik bietet eine forschungsorientierte Qualifikation in der Entwicklung, Optimierung und Analyse verschiedener Sensortypen und Messmethoden für marine Fragestellungen. Hierzu werden Kompetenzen in mathematisch-naturwissenschaftlichen Messmethoden und informations-technologischen Modellen zur Datenerfassung und -haltung aufgebaut. Nötige Kenntnisse zur Installation und zum Betrieb von marinen Messmethoden werden in der praktischen Arbeit vermittelt. Im Labor werden Daten prozessiert, ausgewertet und interpretiert, damit diese in den marinen Umweltwissenschaften genutzt werden können.<br /><br />Der Studiengang bereitet auf eine qualifizierte berufliche Tätigkeit vor und bietet die Basis für eine Promotion. Die Studierenden werden befähigt, in der Auseinandersetzung mit fachlichen Problemen fächerübergreifend und verantwortungsbewusst wissenschaftlich zu arbeiten und die erhaltenen Resultate schlüssig darzustellen. Die Absolvent*innen sind in der Lage, ihr Wissen und ihre Schlussfolgerungen mit Expert*innen sowie Lai*innen zu kommunizieren. Studierende gewinnen selbständig und im Team wissenschaftliche Erkenntnisse, und erkennen deren Bedeutung für die Gesellschaft und die berufliche Praxis. Die Qualifizierung basiert sowohl auf theoretischen als auch angewandten Lehrinhalten.<br /><br />Besonderer Wert wird auf das wissenschaftliche Arbeiten gelegt. Hierbei sollen die Studierenden früh mit internationalen Wissenschaftler*innen zusammenkommen. Weiterhin werden hervorragende Möglichkeiten zur Spezialisierung auf bestimmte Messverfahren und zur selbständigen Durchführung von Forschungsprojekten geboten.</p></div></div></div><div class="ka-panel closed zsb-profile-element-inhalte"><header><h2>Studienaufbau und Studieninhalte</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Die Studienstruktur ist ein dreisemestriges, vollständig modularisiertes Studium. Die Studierenden können entscheiden, ob sie ihr Studium breit anlegen und interdisziplinär absolvieren wollen oder gezielt auf einen der Schwerpunkte zuarbeiten. Durch vielfältige Wahlmöglichkeiten haben die Studierenden frühzeitig die Option, eine eigene Akzentuierung durch individuelle Schwerpunktbildung zu entwickeln. Das Studium behält auch bei einer Schwerpunktbildung seinen interdisziplinären Charakter.<br /><br />Durch die konsekutiv angelegte Struktur zum Bachelor Meerestechnik der Jade Hochschule Wilhelmshaven ist die Verweildauer der Studierenden auf nur zwei Fachsemester plus einem Semester für das Erstellen der Masterarbeit angelegt. Studierende mit einem anderen vorangegangenen Studiengang, beginnen ihr Studium im sogenannten <strong>nullten Semester oder Brückensemester</strong>. Der Zugangsausschuss legt die zu belegenden Module hierfür individuell fest.<br /><br />Das <strong>erste und das zweite Semester</strong> beinhalten Module aus dem Wahlpflichtbereich und dem Pflichtbereich sowie ein Pflichtmodul mit freier Wahlmöglichkeit.<br /> </p><ul><li>Im Wahlpflichtbereich wählen die Studierenden in jedem Fachsemester jeweils zwei von drei möglichen Modulen. Dadurch wird eine fundierte Grundlage in zentralen Themen der marinen Sensorik sichergestellt.</li><li>Der Pflichtbereich umfasst zentrale Kernkompetenzen des Studiengangs Marine Sensorik. Das verpflichtende Praxismodul ‚Marine Feldforschung‘ stellt sicher, dass jede Absolventin und jeder Absolvent in der Lage ist, alle Stellen der Wertschöpfungskette seegehender Expeditionen zu besetzen. Dieses schließt die Planung, die Durchführung, den operativen Einsatz häufig genutzter Standardmethoden und Geräte, und die Datenauswertung, Interpretation und Veröffentlichung mit ein. Hiermit besetzen die Studierenden eine wichtige operative Schnittstelle zwischen dem technischen und wissenschaftlichen Sektor einer Forschungsexpedition.</li><li>Im Pflichtmodul mit freier Wahlmöglichkeit können die Studierenden aus dem gesamten Master-Kanon der Marinen Umweltwissenschaften der Universität Oldenburg ein Modul auswählen. Zusätzlich ist eine freie Professionalisierung über ein frei wählbares Mastermodul der Universität Oldenburg, des Sprachenzentrums, der Jade Hochschule Wilhelmshaven oder einer externen Institution möglich, welches in einem thematisch sinnvollen Zusammenhang mit dem Studiengang Marine Sensorik stehen muss. Hierzu muss formal die Freigabe durch den Prüfungsausschuss erfolgen.</li></ul><p><br />Über den weiteren Pflichtbereich ‚Forschungsprojekt Marine Sensorik‘ besteht ebenfalls die Möglichkeit einer Akzentuierung und des Knüpfens erster Kontakte in Wirtschafts- oder Forschungsinstitutionen, die idealerweise zur Themenstellung im Masterabschlussmodul im <strong>dritten Semester</strong> genutzt werden können.<br /><br />Weitere Details siehe <a href="https://uol.de/marsens-msc">www.uol.de/marsens-msc</a></p></div></div></div><div class="ka-panel closed zsb-profile-element-schwerpunkte"><header><h2>Schwerpunkte</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><ul><li>Angewandte Ozeanographie (physikalisch, biologisch, chemisch)</li><li>Methoden der Sensor- und Sensorikentwicklung (Schwerpunkt im optischen Bereich)</li><li>Beobachtungssysteme (Entwicklung, Betrieb, Datenverarbeitung)</li><li>Datenströme und Qualitätssicherung (from observation to archive (O2A))</li><li>Bearbeitung interdisziplinärer Umweltfragestellungen (Link zu gesellschaftspolitisch relevanten Fragestellungen)</li></ul></div></div></div><div class="ka-panel closed zsb-profile-element-lernformen"><header><h2>Lehr- und Lernformen</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Große Module werden in Form von Vorlesungen, Seminaren, und Übungen mit hohem praktischem Anteil angeboten. Einige Module werden in englischer Sprache durchgeführt. Die Studierenden werden von Anfang an in Forschungsaktivitäten eingebunden.</p></div></div></div><div class="ka-panel closed zsb-profile-element-gruende"><header><h2>Gründe für ein Studium</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Der erfolgreiche Masterabschluss des Studiengangs Marine Sensorik befähigt zur selbständigen Bearbeitung von messenden Fragestellungen in allen Bereichen mariner Forschung und Technik. Damit decken die Absolventinnen und Absolventen eine wichtige Schnittstellenkompetenz zwischen Wissenschaft und Technologie ab. Dies umfasst z.B. die eigenständige Durchführung von Forschungs- und Entwicklungsarbeiten, die Leitung von Entwicklungsteams, die Realisierung von Beobachtungssystemen, die Adaptierung von Messverfahren für Erkundungen, das Wissenschaftsmanagement und die Beratung von Endkundinnen und Endkunden sowie Nutzerinnen und Nutzern.<br /><br />Die Ausbildung erfolgt primär am Institut für Chemie und Biologie des Meeres (ICBM). Das ICBM ist das einzige universitäre Meeresforschungsinstitut des Landes Niedersachsen. Der Standort Wilhelmshaven liegt direkt am Jadebusen und hat im benachbarten Hafen mehrere Forschungsboote liegen, die ein kurzfristiges Erreichen von Zielen auf der Nordsee und in Küstennähe ermöglichen. Am ICBM arbeiten Chemiker*innen, Physiker*innen, Mathematiker*innen, Biolog*innen, Geolog*innen, Ökolog*innen sowie Techniker*innen interdisziplinär an aktuellen Fragestellungen der Meeresforschung. Das fachübergreifende Denken und Handeln ist eine der wesentlichen Stärken des ICBM in Forschung und Lehre, die den Studierenden vermittelt wird.<br /><br />Weitere Informationen, siehe <a href="https://uol.de/icbm">www.uol.de/icbm</a><br /><br />Ein Teil der Ausbildung erfolgt zudem an der Jade Hochschule Wilhelmshaven im Rahmen des Vertrags zur hochschul-übergreifenden Kooperation im Bereich Meerestechnik. Studierende können fehlende Kompetenzen im Bereich der Technik dank des breiten, grundlegenden Veranstaltungsangebots ausgleichen. Zudem sind Abschlussarbeiten in den Arbeitsgruppen des Fachbereichs Meerestechnik denkbar.<br /><br />Weitere Informationen, siehe <a href="https://www.jade-hs.de/unsere-hochschule/fachbereiche/ingenieurwissenschaften/">www.jade-hs.de/unsere-hochschule/fachbereiche/ingenieurwissenschaften/</a></p></div></div></div><div class="ka-panel closed zsb-profile-element-sprachkenntnisse"><header><h2>Sprachkenntnisse</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Für ein Studium dieses Studiengangs an der Universität Oldenburg müssen internationale Studierende mit der Bewerbung ausreichende deutsche Sprachkenntnisse nachweisen:<br /><br /><strong>Deutschkenntnisse</strong></p><ul><li>wenn die Muttersprache Deutsch ist bzw. die Hochschulzugangsberechtigung in deutscher Sprache erworben wurde oder</li><li>durch DSH 2 (Deutsche Sprachprüfung für den Hochschulzugang) oder</li><li>durch TestDaF mit Niveau 4 in allen Teilbereichen.</li></ul><p><strong>Englischkenntnisse</strong> laut Zugangsordnung</p><ul><li>Sprachtest auf <strong>Niveau B2</strong> des Gemeinsamen europäischen Referenzrahmens für Sprachen (GeR) oder</li><li>wenn die Muttersprache Englisch ist bzw. die Hochschulzugangsberechtigung oder ein erster Hochschulabschluss in englischer Sprache erworben wurde.</li></ul><p>Um englischsprachige Fachvorträge und Lehrveranstaltungen zu verstehen, englischsprachige Texte zu verfassen und englischsprachige fachliche Diskussionen zu führen, sind englische Sprachkenntnisse erforderlich.<br /><br />Der Nachweis der Sprachkenntnisse muss spätestens bei der Einschreibung vorliegen. Weitere Informationen finden Sie unter <a href="https://uol.de/p21015">Sprachliche Voraussetzungen</a></p></div></div></div><div class="ka-panel closed zsb-profile-element-berufsfelder"><header><h2>Berufs- und Tätigkeitsfelder</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Berufliche Befähigung<br />Der Masterstudiengang Marine Sensorik bietet eine forschungsorientierte Qualifikation in der Entwicklung, Optimierung und Analyse von Sensoren und Messmethoden für marine Fragestellungen. Nach erfolgreichem Abschluss sind die Absolvent*innen zur selbständigen Bearbeitung komplexer Fragestellungen im Bereich mariner Sensorik qualifiziert und bedienen damit eine wichtige Schnittstelle zwischen Wissenschaft und Messtechnik. Der früh im Studienverlauf vorgesehene Kontakt mit nationalen und internationalen Mitarbeiter*innen aus den Bereichen Forschung und Industrie befähigt die Absolvent*inne außerdem zum Arbeiten in Teams und Kommunizieren von Grundlagen und Ergebnissen der eigenen Forschung.<br /><br /><strong>Tätigkeitsfelder</strong><br />Die Aufgaben sind vielfältig und schließen die eigenständige Durchführung von Forschungs- und Entwicklungsarbeiten in Forschungseinrichtungen, Leitung von Entwicklungsteams, Realisierung von Beobachtungssystemen, Adaptierung von Messverfahren für Erkundungen, Wissenschaftsmanagement oder die Beratung von Endkund*innen sowie Nutzer*innen ein. Mögliche Beschäftigungsfelder ergeben sich in Forschungseinrichtungen, Behörden, Unternehmen der Sensor- und Systemtechnik, Beratungs- und Vertriebsunternehmen sowie Unternehmen aus dem Bereich der off-shore Rohstoff- und Energiegewinnung.<br /><br /><strong>Promotion</strong><br />Eine weiterführende Qualifikation in Form einer Promotion ist bei entsprechender Eignung möglich. Projekte mit entsprechenden Fragestellungen werden von ausgewählten Arbeitsgruppen des ICBM und Kooperationspartnern wie den deutschen Meeresforschungseinrichtungen in Bremerhaven, Bremen, Kiel und Rostock oder internationalen Partnern wie University Aberdeen (Imaging), UTM/CSIC Barcelona (Environmental Sensors), University Strathclyde (Marine Optics), IRIS Stavanger (Bio-Sensors), MCI University of Southern Denmark (Robotics) angeboten.</p></div></div></div><div class="ka-panel closed zsb-profile-element-besonderezugangsvoraussetzungen"><header><h2>Zugangsvoraussetzungen</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><ul><li>Bachelorabschluss oder diesem gleichwertigen Abschluss in einem Studiengang der Meerestechnik oder Mechatronik mit Schwerpunkt Meerestechnik oder in einem anderen fachlich geeigneten vorangegangenen Studiengang im Umfang von mindestens 210 Kreditpunkten.</li><li>Studiengänge mit einem Gesamtumfang von mindestens 180 Kreditpunkten können mit der Maßgabe fachlich geeignet sein, dass fehlende für den Masterstudiengang <i>Marine Sensorik</i> relevante Kompetenzen im Umfang von 30 Kreditpunkten in einem Brückensemester nachzuholen sind.</li></ul><p><br /><strong>Englischkenntnisse</strong></p><ul><li>Sprachtest auf <strong>Niveau B2</strong> des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GeR)</li></ul><p>Weitere Details siehe "Sprachkenntnisse" auf dieser Seite.</p></div></div></div><div class="ka-panel closed zsb-profile-element-bewerbungsverfahren"><header><h2>Bewerbung/Zulassungsmodalitäten</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><p>Der Studiengang ist zulassungsfrei. Eine Bewerbung ist zum Sommersemester möglich, zum Wintersemester <strong>nur in begründeten Ausnahmefällen</strong>.<br />Bewerbung zum Sommersemester bis 31.03.<br />Bewerbung zum Wintersemester bis zum 30.09.<br /><br /><a href="https://uol.de/p15961">Übersicht Bewerbungsfristen Master</a><br /><br /><strong>Bitte beachten:</strong><br />Bei zulassungsfreien Masterstudiengängen wird eine möglichst <strong>frühzeitige Bewerbung</strong> bis zum 15.07. zum Wintersemester bzw. bis zum 15.01. zum Sommersemester empfohlen. Werden die Bewerbungsunterlagen nach diesem Termin eingereicht, kann dies Nachteile für Ihren Studienbeginn mit sich bringen. Bitte beachten Sie unsere Hinweise zum <a href="https://uol.de/fileadmin/studium/download/iamt/bewerben/master/uni-oldenburg-oertliches-bewerbungsverfahren-master.pdf">örtlichen Bewerbungsverfahren</a>.</p></div></div></div><div class="ka-panel closed zsb-profile-element-module_handbooks"><header><h2>Modulhandbücher</h2></header><div class="ce-textpic ce-center ce-above "><div id="zsb_profile_module_handbooks"><p><b>Hinweis:</b>
+								Die Erstellung der Modulhandbücher erfolgt in Echtzeit, daher haben Sie bitte etwas Geduld, es kann mehrere Sekunden dauern.
+							</p><p><b>Fach</b></p><p class="mit-icon pdf"><a href="https://elearning.uni-oldenburg.de/plugins.php/dokumenteplugin/download/modulhandbuch/pdf/6bbd577688e32dc7eeb6f5ce77bea35a/6deb9ac0b1b029725677754e75a6b7ba/DE/big">Marine Sensorik</a></p></div></div></div><div class="ka-panel closed zsb-profile-element-weitere_infos"><header><h2>Weiterführende Informationen</h2></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><ul class="files"><li class="mit-icon pdf"><a href="https://elearning.uni-oldenburg.de/sendfile.php?force_download=1&amp;type=0&amp;file_id=20de42734c37622f5aef55f9a5ea7d5d&amp;file_name=MA_MarineSensorik_UOL_Studiengangsflyer.pdf&amp;cancel_login=1" target="_blank">Studiengangsflyer Marine Sensorik M.Sc.</a></li><li class="mit-icon pdf"><a href="https://elearning.uni-oldenburg.de/plugins.php/veranstaltungsverzeichnis/verzeichnis/module/x0000000000000000000000000000632/x0000000000000000000000000000030" target="_blank">Aktuelle Lehrveranstaltungen Marine Sensorik (Master)</a></li><li class="mit-icon pdf"><a href="https://elearning.uni-oldenburg.de/sendfile.php?force_download=1&amp;type=0&amp;file_id=d45ce5d5d99c0b1c3c03884a5d476345&amp;file_name=marsens-msc&amp;cancel_login=1" target="_blank">Internetseite Marine Sensorik M.Sc.</a></li></ul></div></div></div></div>
+
+    
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+
+
+<div id="c" class="frame frame- frame-type- frame-layout-"><div class="zsb_container"><header><h3>Kontakt</h3></header><div class="ce-textpic ce-center ce-above "><div class="ce-bodytext"><h4>Für alle Fragen rund ums Studium:</h4><div class="ce-bodytext"><ul class="files"><li class=""><a target="_blank" href="https://uol.de/zskb">Zentrale Studien- und Karriereberatung</a></li></ul></div><strong>Für Fragen zum Studiengang/-fach:</strong><div class="ce-bodytext"><ul class="files"><li class=""><a href="https://uol.de/fs-master-icbm" target="_blank">Fachschaft Marine Sensorik</a></li><li class=""><a href="https://uol.de/fachstudienberatung?tx_zsb_fachstudienberater%5Baction%5D=display&amp;tx_zsb_fachstudienberater%5Bcontroller%5D=Fachstudienberatung&amp;tx_zsb_fachstudienberater%5Bstudynr%5D=559&amp;cHash=ca093233afb1c4b61a252c90e8f709d7" target="_blank">Fachstudienberatung  Marine Sensorik</a></li></ul></div></div></div></div></div>
+
+
+
+
+
+
+
+
+<div id="c42374" class="frame frame-default frame-type-list frame-layout-0"><header class="csc-header"><h3>Zahlen und Fakten</h3></header><div class="ce-bodytext"><dl id="facts-dauer" class="container-facts"><dt><span class="t3js-icon icon icon-size-medium icon-state-default icon-zahlen_und_fakten_dauer" data-identifier="zahlen_und_fakten_dauer" aria-hidden="true"><span class="icon-markup"><img src="/_assets/b588bfa53dbc3a320f0887cba9a50956/Icons/Frontend/zskb/zahlen_und_fakten/uol-studiengang-icon-dauer.svg" width="32" height="32" alt="" /></span></span>
+							Dauer:
+						</dt><dd>3 Semester</dd></dl><dl id="facts-abschluss" class="container-facts"><dt><span class="t3js-icon icon icon-size-medium icon-state-default icon-zahlen_und_fakten_abschluss" data-identifier="zahlen_und_fakten_abschluss" aria-hidden="true"><span class="icon-markup"><img src="/_assets/b588bfa53dbc3a320f0887cba9a50956/Icons/Frontend/zskb/zahlen_und_fakten/uol-studiengang-icon-abschluss.svg" width="32" height="32" alt="" /></span></span>
+							Abschluss:
+						</dt><dd>Master of Science</dd></dl><dl id="facts-sprache" class="container-facts"><dt><span class="t3js-icon icon icon-size-medium icon-state-default icon-zahlen_und_fakten_sprache" data-identifier="zahlen_und_fakten_sprache" aria-hidden="true"><span class="icon-markup"><img src="/_assets/b588bfa53dbc3a320f0887cba9a50956/Icons/Frontend/zskb/zahlen_und_fakten/uol-studiengang-icon-sprache.svg" width="32" height="32" alt="" /></span></span>
+							Sprache:
+						</dt><dd>Deutsch/Englisch</dd></dl><dl id="facts-zulassungsfrei" class="container-facts"><dd><span class="t3js-icon icon icon-size-medium icon-state-default icon-zahlen_und_fakten_zulassungsfrei" data-identifier="zahlen_und_fakten_zulassungsfrei" aria-hidden="true"><span class="icon-markup"><img src="/_assets/b588bfa53dbc3a320f0887cba9a50956/Icons/Frontend/zskb/zahlen_und_fakten/uol-studiengang-icon-zulassungsfrei.svg" width="32" height="32" alt="" /></span></span>
+										zulassungsfrei
+									</dd></dl><dl id="facts-besondere-zugangsvoraussetzungen" class="container-facts"><dd><span class="t3js-icon icon icon-size-medium icon-state-default icon-zahlen_und_fakten_besondere-zugangsvoraussetzungen" data-identifier="zahlen_und_fakten_besondere-zugangsvoraussetzungen" aria-hidden="true"><span class="icon-markup"><img src="/_assets/b588bfa53dbc3a320f0887cba9a50956/Icons/Frontend/zskb/zahlen_und_fakten/uol-studiengang-icon-besondere-zugangsvoraussetzungen.svg" width="32" height="32" alt="" /></span></span>
+									Besondere Zugangsvoraussetzungen
+								</dd></dl></dl></div></div>
+
+
+
+
+
+
+
+
+<div id="c58333" class="frame frame-default frame-type-list frame-layout-0"><header><h3 class="">
+                Wichtige Informationen
+            </h3></header><div class="ce-bodytext"><ul class="files"><li class=""><a href="https://elearning.uni-oldenburg.de/sendfile.php?force_download=1&amp;type=0&amp;file_id=3e7cfc1fa00f75d8c75e544fd9a75aac&amp;file_name=ZO_MarineSensorik_MA.pdf&amp;cancel_login=1" target="_blank">Zugangsordnung Marine Sensorik M.Sc.</a></li></ul></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			<div id="c743945" class="frame frame-hgweiss frame-type-list frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+    
+
+
+
+				
+				
+
+    
+        
+
+    
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+	
+			<div id="c742869" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <script>
+  $(function(){
+    $('.zsb_container .ka-panel h1').each(function(){
+      $(this).replaceWith($('<h3>' + this.innerHTML + '</h3>'));
+    });
+  });
+</script>
+<style>
+  .zsb_container .ka-content h3 {
+    font-size: 1.4em !important;
+  }
+</style>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <style>
+  .master-header-image ul {
+    padding-left:0!important;
+    position:relative;
+  }
+
+  .zsb-nav-tabs > li > a {
+    color: var(--uol-text-color);
+  }
+</style>
+
+
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			<div id="c474570" class="frame frame-default frame-type-shortcut frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    
+
+	
+			<div id="c474568" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <style>
+  .zsb-nav-tabs > li > a {
+    color: var(--uol-text-color);
+  }
+  /* .mfp-iframe-holder .mfp-content {
+    max-width: 1200px;
+  } */
+</style>
+
+<script>
+$(function(){
+  $('a[href*="p117240"]:not(:has(img))').addClass('button_inline').magnificPopup({
+    type: 'iframe',
+    mainClass: 'w1200'
+  });
+});
+</script>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <script>
+$(function(){
+  if (window.self !== window.top) {
+    $('body').addClass('pur');
+    $('#content a[href^="/"], #content a[href^="https://uol.de/"]').addClass('blanklink').attr('target', '_blank');
+    $('#content a[href]').first().focus();
+  }   
+});
+</script>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			<div id="c786986" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <style>
+  .master-header-image ul {
+    padding-left:0!important;
+    position:relative;
+  }
+
+  .zsb-nav-tabs > li > a {
+    color: var(--uol-text-color);
+  }
+
+  /* Design-Anpssung */
+  /* @media (min-width: 992px) { */
+    div#left {
+      order: 2;
+    }
+  /* } */
+  
+  dl#stdgfacts dd {
+    font-weight: bold;
+  }
+  
+  dl#stdgfacts dt {
+    font-weight: 300;
+  }
+
+  #p15153 .container.zsb_tab_container::after {
+    display: block;
+    content: "";
+    height: 250px;
+    max-height: 50vw;
+    /* background-image: url("/mediapool/Uni-Bilder/Besondere_Verwendung/Erstsemesterbegruessung_Assanimoghaddam_Mohssen.jpg");*/
+    background-image: url("/mediapool/Uni-Bilder/Besondere_Verwendung/Erstsemesterbegruessung_Assanimoghaddam_Mohssen2.webp");
+    background-size:cover;
+    background-position: 80%;
+    margin-top:1rem;
+  }
+
+  span.t3js-icon.icon.icon-size-medium.icon-state-default.icon-default-not-found {
+    display: none;
+  }
+
+  header.ka-handler {
+    --uol-button-rahmen-color: var(--uol-blau2);
+  }
+  
+  /* header.ka-handler {
+    border-left-color: var(--uol-blau2) !important;
+  } */
+  
+@media (min-width: 992px) {
+  div#left {
+    padding-left: 20px !important;
+    padding-right: 10px !important;
+  }
+
+  div#main {
+    padding-right: 20px !important;
+    padding-left: 10px!important;
+  }
+}
+  #c42374 {
+    --uol-bg-color: var(--uol-uniblau);
+    --uol-text-color: white;
+    background: var(--uol-uniblau) !important;
+    color: white !important;
+    /* padding-right: var(--uol-padding-r);
+    padding-left: var(--uol-padding-l); */
+    padding: var(--uol-box-padding-v) var(--uol-box-padding-h);
+
+    h3 {
+      color: white !important;
+    }
+
+    .ka-handler::after, .ka-handler::before {
+      border-color: var(--uol-blau2);
+    }
+  }
+
+  dl.container-facts {
+    min-height: 32px;
+    position: relative;
+
+    span.t3js-icon {
+      display: block;
+      width: 32px;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    img {
+      background: inherit !important; /* var(--uol-uniblau) !important; */
+    }
+  }
+  dt, dd {
+    padding-left: 50px;
+    /* position: relative; */
+  }
+    #stdgfacts span.t3js-icon.icon.icon-size-medium {
+      position: absolute;
+    }
+
+  .media2click-wrap > * {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    height: auto !important;
+  }
+  
+  /* dt::before {
+      content: "➜";
+      font-family: fontawesome;
+      display: block;
+      width: max-content;
+      position: absolute;
+      left: .6em;
+  } */
+
+</style>
+<script>
+  $(function(){
+  //   if($('.container-facts').length) {
+  //     // console.log('Facts gefunden');
+  //     const $neu = $('<dl>').attr('id','stdgfacts').addClass('container-facts');
+  //     $('ul.container-facts li').each(function(){
+  //       let arr = $(this).text().split(':');
+  //       arr[1] = arr[1] ?? '';
+  //       $('<dt>'+arr[0]+'</dt><dd>'+arr[1]+'</dd>').appendTo($neu);
+  //     });
+  //     $neu.insertAfter('.container-facts').prev().remove();
+
+  //     $('.zsb_container .ce-bodytext .ce-bodytext').each(function(){
+  //       $(this).replaceWith($(this).html());
+  //     });
+    
+      // $('.zsb_container .ce-bodytext div + strong').wrap('<p>');
+    $('.zsb_container div + strong').each(function(){
+      console.log("strong");
+      $(this).replaceWith($('<h4>').html($(this).html()));
+    });
+
+    // $('#kontaktblock')#c42374.closed header').click();
+
+    $('.media2click-content a').each(function(){
+      $(this).after('<span>(Siehe "Datenschutz" im Seitenfuß)</span>');
+      $(this).remove();
+    });
+
+    $('p:empty').remove();
+
+    function waitForEle(selector, callback) {
+      const observer = new MutationObserver((mutations, obs) => {
+          const element = $(selector);
+          if (element.length) {
+              obs.disconnect(); // Stoppt die Überwachung
+              callback(element);
+          }
+      });
+  
+      observer.observe(document.body, {
+          childList: true,
+          subtree: true
+      });
+    }
+    
+    // Anwendung:
+    waitForEle("#c42374.ka-panel", function(el) {
+        $("#c42374.ka-panel header").click();
+        // console.log("Element ist da!");
+    });
+
+  //   $('#c58333 ul, #c384925 ul').addClass("geweitet");
+  });
+</script>
+<style>
+  
+  /* dl.container-facts {
+
+
+    dt {
+      font-weight: normal;
+      font-size: 13px;
+    }
+    dd {
+      font-weight: bold;
+    }
+  } */
+
+  .zsb_container h2, .zsb_container h3 {
+    margin-top: 2rem;
+  }
+
+  .ce-bodytext + .ce-bodytext {
+    margin-top: 1.5em;
+  }
+  
+  .ce-bodytext form {
+    background: var(--uol-bg-blau-blass);
+    padding: 1rem;
+    width: fit-content;
+  }
+
+  html[data-colormode*="dark"] .ce-bodytext form {
+    background: var(--uol-uniblau);
+  }
+
+  .zsb-nav-tabs li {
+    padding-left: 0;
+  }
+
+  ul.files li + li {
+    margin-top: .4em;
+  }
+</style>
+
+<style>
+  /* div#content_body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+    "stgtitel stgtitel"
+    "profil seitenspalte";
+  }
+  
+  #main, #left {
+      max-width: 100%!important;
+  }
+  
+  #main {
+      grid-area: profil;
+      padding: 0 !important;
+  }
+  
+  #left {
+      grid-area: seitenspalte;
+      padding: 0 !important;
+  }
+  
+  h1#application-start {
+      grid-area: stgtitel !important;
+  } */
+</style>
+
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <style>
+h1 {
+    margin-bottom: 1.3rem;
+    
+    &::before {
+        content: "Informationen zum Studiengang";
+        display: block;
+        font-size: 1rem;
+        padding-bottom: .5em;
+        padding-left: .1em;
+    }
+}
+</style>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <style>
+@media (min-width: 992px) {
+  #main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto;
+    grid-column-gap: 30px;
+    /* grid-row-gap: 30px; */
+    grid-template-areas: 
+      "headline headline"
+      "profil kontakt"
+      "profil zahlen"
+      "profil wichtig"
+      "profil zulbeschr"
+      "profil aktuelles"
+      "profil studycheck"
+      "profil .";
+    grid-template-rows: min-content min-content min-content min-content min-content min-content min-content 1fr;
+
+    /* > * {
+      margin: 0!important;
+    } */
+  }
+  #headline_content {
+    grid-area: headline;
+  }
+  .zsb_element_profil {
+    grid-area: profil;
+  }
+  #main > .zsb_element_kontakt {
+    grid-area: kontakt;
+    margin-top: 60px !important;
+  }
+  .zsb_element_zahlen {
+    grid-area: zahlen;
+  }
+  .zsb_element_wichtig {
+    grid-area: wichtig;
+  }
+  .zsb_element_zulbeschr {
+    grid-area: zulbeschr;
+  }
+  .zsb_element_aktuelles {
+    grid-area: aktuelles;
+  }
+  .zsb_element_studycheck {
+    grid-area: studycheck;
+  }
+}
+</style>
+<script>
+  $(function(){
+    $('#c42374').addClass("zsb_element_zahlen");
+    $('#c127548').addClass("zsb_element_aktuelles frame-hggrau");
+    $('#c743945').addClass("zsb_element_studycheck");
+    $('#c58333').addClass("zsb_element_wichtig");
+    $('.zsb_element_profil').next().addClass('zsb_element_kontakt frame-hggrau');
+  });
+</script>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+            
+
+					  
+
+
+
+
+        </div>
+
+    </div>
+
+					</div>
+					<div id="inhalt_infos" class="fullwidth">
+						<div class="container">
+							<div>
+								
+								
+<script type="text/javascript">(function(p,u){for(var i in u){document.write(p[u[i]]);}})(['qdw','rsf','<a ','syi','vqe','ova','kmc','ucv','ucv','dsv','djp','djp','hgi','yka','utk','hre','ocz','f="','ytw','mai','lt','o:i','fvv','fvv','fpl','nf','xfe','xfe','rvm','vai','ojp','ojp','vgu','iki','jfb','op','jfb','rsn','inl','shq','or','gno','muy','muy','dsl','ta','jcn','jcn','hzn','hzn','mwk','lfp','lwy','lwy','mnq','tvt','sqw','efa','jey','l-st','nil','ud','ium@','un','hce','i-ol','denb','urg','wee','wee','tkj','.de','">I','nf','otb','dzk','oPo','rtal','rhe','rhe','ggy','ggy',' S','tu','ovf','trn','dium','</a','bvv','mxh','>'],[2,15,17,19,20,21,25,35,40,45,59,61,62,63,65,66,67,71,72,73,76,77,82,83,86,87,90]);</script>
+(Stand: 16.03.2026)
+&nbsp;<span id="uol_shortlink_wrap">|&nbsp; <span class="lang_de">Kurz-URL:</span><span class="lang_en">Shortlink:</span> <a href="https://uol.de/stud/559" id="uol_shortlink" class="shortlink" title="Shortlink">https://uol.de/stud/559</a></span>
+
+							</div>
+						</div>
+					</div>
+        </main>
+    </div>
+    <footer id="wrapper-footer">
+	<div class="container">
+		<div class="row footer-top-col-3 footer-5">
+			<div class="col-lg-4 col-pos-1">
+				<aside id="footer_left">
+					<i class="mobile-icon fa fa-bank"></i>
+					
+    
+
+    <div id="c266316" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Anschrift</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266318" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-right ce-intext ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Carl von Ossietzky Universität Oldenburg<br>Ammerländer Heerstraße 114-118<br>26129 Oldenburg<br>Tel. <a href="tel:+494417980">+49-(0)441-798-0</a>&nbsp;</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+	
+			<div id="c377683" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p class="mit-icon zeiger"><a href="/kontakt">Kontakt / Anfahrt / Lageplan</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+			<div class="col-lg-4 col-sm-6 col-pos-2">
+				<aside id="footer_center">
+					<i class="mobile-icon fa fa-info-circle"></i>
+					
+    
+
+    <div id="c266289" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Informationen</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266319" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <ul class="uol_footer_links">
+<li><a class="internal-link" href="https://uol.de/datenschutzerklaerung">Datenschutz</a></li>
+  
+<li><a class="internal-link" href="https://uol.de/barrierefreiheit">Barrierefreiheit</a></li>
+
+<li><a class="internal-link" href="https://uol.de/sponsoringleistungen">Sponsoringleistungen</a></li>
+
+<li><a class="internal-link" href="https://uol.de/drittmittelforschung">Drittmittelforschung</a></li>
+
+<li><a class="internal-link" href="https://uol.de/impressum">Impressum</a></li>
+</ul>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+			<div class="col-lg-4 col-sm-6 col-pos-3">
+				<aside id="footer_right">
+					<i class="mobile-icon fa fa-share-alt-square"></i>
+					
+    
+
+    <div id="c266321" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Besuchen Sie uns auch hier</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266322" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+      <div>        
+    <ul class="widget-social-profile social-icon-no-border uol_footer_links">
+      <li><a href="https://www.instagram.com/uni.oldenburg/" target="_blank"><i class="fa fa-instagram"></i> Instagram</a></li>
+      <li><a href="https://www.linkedin.com/school/carl-von-ossietzky-university-of-oldenburg/" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+      <li><a href="https://wisskomm.social/@UniOldenburg" target="_blank" id="uol_footer_mastodon"><span></span> Mastodon</a></li>
+      <li><a href="https://www.youtube.com/user/UniversityOldenburg" target="_blank"><i class="fa fa-youtube"></i> Youtube</a></li>
+      <li><a href="https://www.facebook.com/UniversitaetOldenburg" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+      
+      <li class="unishop"><a href="https://unishop-oldenburg.de/"><i class="fa fa-shopping-cart"></i> Unishop</a></li>
+    </ul>
+  </div>
+<style>
+  .widget-social-profile .unishop a {
+    background-color: var(--uol-uniblau)!important;
+  }
+  .widget-social-profile .unishop a:hover {
+    background-color: var(--uol-blau1)!important;
+  }
+</style>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+		</div>
+	</div>
+        <script type="text/javascript">
+            (function($){
+                setWidgetCollapse();
+                $(window).resize(function () {
+                    setWidgetCollapse();
+                });
+
+                function setWidgetCollapse(){
+                    var $windowWidth = $(window).width();
+                    if($windowWidth<576){
+                        $('footer aside.widget').each(function(){
+                            var title = $('h4:first',this);
+                            var content = $(title).next();
+                            $(title).addClass('show collapse');
+                            if(content!=null && content!='undefined')
+                                $(content).hide();
+                            $(title).off();
+                            $(title).click(function(){
+                                var content = $(this).next();
+                                if($(this).hasClass('expanded')){
+                                    $(this).removeClass('expanded');
+                                    $(title).addClass('collapse');
+                                    $(content).slideUp();
+                                }
+                                else
+                                {
+                                    $(this).addClass('expanded');
+                                    $(title).removeClass('collapse');
+                                    $(content).slideDown();
+                                }
+
+                            });
+
+                        });
+                    }else{
+                        $('footer aside.widget').each(function(){
+                            var title = $('h4:first',this);
+                            $(title).off();
+                            var content = $(title).next();
+                            $(title).removeClass('collapse');
+                            $(title).removeClass('expanded');
+                            $(content).show();
+                        });
+                    }
+                }
+            })(jQuery);
+        </script>
+        <div class="footer_bottom_holder">
+
+        </div>
+</footer>
+<a class="gotop" href="javascript:;">
+	<i class="fa fa-angle-up"><span lang="DE">Zum Seitananfang scrollen</span> <span lang="en">Scroll to the top of the page</span></i>
+</a>
+
+</div>
+<!-- CAMPUS_LINGO_AUTOTRANSLATION_INFORMATION -->
+
+<script src="/typo3temp/assets/compressed/media2click-05e1658a2eb1d2b21721931c63e0a630.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/Form.min-c5e2f1dd01471d315c2098329242622b.js?1773821057" defer="defer"></script>
+<script src="/typo3temp/assets/compressed/bootstrap.min-310b73b77cc55ee91f40f28c3dccd0bf.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/owl.carousel-8d2c139df5a7059d3c36d1351f8dd6a1.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/jquery.slicknav.min-ef5f98e06acae4ac009260981a5fc790.js?1773821057"></script>
+<script src="/typo3temp/assets/compressed/jquery.flexslider-min-93af0cdb24b4541445ed24896ddcf441.js?1773821058"></script>
+<script src="/typo3temp/assets/compressed/facelift-828c4fcd0aaede8919e9e3bc5d960374.js?1773821058"></script>
+<script src="/typo3temp/assets/compressed/jquery.magnific-popup.min-c28fbc217523a9bc6ed8f73acb65a46f.js?1773821058"></script>
+<script src="/typo3temp/assets/compressed/jquery-accessibleMegaMenu.min-13f7de37a38a5aa1a255a353692a940d.js?1773821058"></script>
+<script src="/typo3temp/assets/compressed/jquery.fancybox.min-eb276c04d2a7cfab93c383f948e554e1.js?1773821058"></script>
+<script src="/_assets/b588bfa53dbc3a320f0887cba9a50956/application.js?1773820801"></script>
+
+<!-- Piwik/Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(["setExcludedQueryParams", ["cHash"]]);
+  _paq.push(["setCookieDomain", "uol.de"]);
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    // https://analyse.uol.de/piwik
+    var u="https://analyse.uol.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    if (0 == 1) {
+      console.log('site_id=' + '1');
+    }
+    _paq.push(['setSiteId', 1]);
+
+
+    // subsite: Unterseiten loggen zusätzlich site
+    if('1' == '1' && '3' != '0' && '3' != '') {
+      if (0 == 1) {
+        console.log('subsite_id=' + '3');
+      }
+      //_paq.push(['addTracker', piwikUrl = u+'matomo.php', '3']);
+      const subSiteArray = '3'.split(',');
+      const subSiteArrayLength = subSiteArray.length;
+      for (var i = 0; i < subSiteArrayLength; i++) {
+        let subSiteId = subSiteArray[i];
+        if (0 == 1) {
+          console.log('in loop: subSiteId=' + subSiteId);
+        }
+        _paq.push(['addTracker', piwikUrl = u+'matomo.php', subSiteId]);
+      }
+    }
+
+    // nur für 404-Seite
+    if('0' == '1') {
+      _paq.push(['setDocumentTitle',  '404/URL = '
+        +  encodeURIComponent(document.location.pathname+document.location.search)
+        + ' /From = ' + encodeURIComponent(document.referrer)]);
+    }
+
+    // nur für Seite mit Suchergebnissen
+    /**
+     * Anzahl Suchergebnisse setzen (Variable searchCountForMatomo muss bereits gesetzt sein)
+     * - ermöglicht Ansicht "Search Keywords with No Results" (auch in matomo_widgets für TYPO3)
+     *
+     * @see https://matomo.org/faq/reports/tracking-site-search-keywords/#tracking-no-result-search-keywords
+     */
+    if('0' == '1') {
+          if (typeof searchCountForMatomo !== 'undefined') {
+              _paq.push(['setCustomUrl', document.URL + '&search_count=' + searchCountForMatomo]);
+          }
+    }
+
+
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async='async'; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik/Matomo Code -->
+
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"WebPage"}</script>
+</body>
+</html>

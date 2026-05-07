@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/typo3conf/ext/uzk2015/Resources/Public/Css/uzkerweiterungen.css" media="all">
+    <title>404 - Seite nicht gefunden / Page not found.</title>
+  </head>
+  <body class="simpleUZKpage">
+    <div class="simpleUZKheader">
+      <h1 lang="de">404 - Seite nicht gefunden / Page not found.</h1>
+    </div>
+    <div style="width:49%;border:0;margin:0;padding-right:1%;float:left">
+      <p>Die von Ihnen gesuchte Seite/Resource https://llm-digitalisierung.uni-koeln.de/sites/digitalisierungsrecht/Zulassungsordnung.pdf konnte leider nicht gefunden werden. Das kann verschiedene Ursachen haben:</p>
+      <h2>Veralteter Link</h2>
+      <p>Sie sind einem alten oder defekten Link gefolgt. Um die gewünschte Information zu finden, nutzen Sie bitte unsere <a href="https://uni-koeln.de/google-suche" class="external-link-new-window" external="1">Websitesuche</a>. Falls Sie dem Betreiber der Seite mit dem veralteten Link informieren wollen, achten Sie darauf anzugeben unter welcher URL diese veraltete Adresse verlinkt wurde und dass der Betreiber der verlinkenden Seite ein anderer sein kann, als der der verlinkten Seite.</p>
+      <h2>Bookmark/Lesezeichen</h2>
+      <p>Sie haben ein veraltetes Bookmark/Lesezeichen verwendet. Um die gewünschte Information zu finden, nutzen Sie bitte unsere <a href="https://uni-koeln.de/google-suche" class="external-link-new-window" external="1">Websitesuche</a>. Bitte aktualisieren Sie für die Zukunft Ihr Bookmark.</p>
+      <h2>Falsche Eingabe in die Adresszeile Ihres Browsers</h2>
+      <p>Vielleicht haben Sie sich vertippt. Bitte kontrollieren Sie Ihre Eingabe und probieren Sie es erneut. Oder gehen Sie <a href="https://llm-digitalisierung.uni-koeln.de" class="external-link-new-window" external="1">zur Startseite</a> und klicken Sie sich von dort zur gesuchten Seite durch.</p>
+    </div>
+    <div style="width:49%;border:0;margin:0;padding-left:1%;float:left">
+      <p>The requested page/resource https://llm-digitalisierung.uni-koeln.de/sites/digitalisierungsrecht/Zulassungsordnung.pdf you are looking for could not be found. This can be due to several reasons:</p>
+      <h2>Outdated Link</h2>
+      <p>You followed an outdated link. To find the desired information, please use our <a href="https://uni-koeln.de/en/google-suche" class="external-link-new-window" external="1">websearch</a>. If you would like to inform the maintainer of the page with the outdated link, be sure to include on which page the URL was found. Also note that the maintaner of the linking page may differ from the maintainer of the linked page</p>
+      <h2>Bookmark/Lesezeichen</h2>
+      <p>You used an outdated bookmark. To find the desired information, please use our <a href="https://uni-koeln.de/en/google-suche" class="external-link-new-window" external="1">websearch</a>. Please update your bookmarks for future use.</p>
+      <h2>Incorrect input in the address bar</h2>
+      <p>Maybe you mistyped the URL. Please check your input and try it again. Or go <a href="https://llm-digitalisierung.uni-koeln.de" class="external-link-new-window" external="1">to the start page</a> and navigate from there to the desired page.</p>
+    </div>
+
+  </body>
+</html>

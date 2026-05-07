@@ -1,0 +1,224 @@
+**Original Program Link:** [https://studienangebot.ruhr-uni-bochum.de/de/sales-management/master-1-fach](https://studienangebot.ruhr-uni-bochum.de/de/sales-management/master-1-fach)
+
+# Sales Management
+
+
+Master 1-Fach
+
+# Sales Management, Master 1-Fach
+
+* Du interessierst dich für Strategie und innovative Geschäftsmodelle? Und dafür, wie sie am Markt erfolgreich umgesetzt werden?
+* Siehst du deine Zukunft im Top Management, im Consulting, im Start-Up oder in der internationalen Forschung?
+* Dann ist der Sales Master an der Ruhr-Universität Bochum genau der richtige für dich.
+* Das klingt spannend? Dann informiere dich jetzt [**hier**](https://smd.rub.de/masterstudiengang-sales-management/)**.**
+
+|  |  |
+| --- | --- |
+| Steckbrief | |
+| Abschluss | **Master of Science** |
+| Beginn | **Winter- und Sommersemester** |
+| Dauer | **4 Semester** |
+| Unterrichtssprache | **Deutsch** |
+| Zulassung | **Zulassungsbeschränkt (NC)** |
+
+## Infos zur Einschreibung/Bewerbung für deutsche Bewerber\*innen
+
+[Jetzt informieren](https://studium.ruhr-uni-bochum.de/de/bewerbung-fuer-zulassungsbeschraenkte-master-studiengaenge)
+
+## Infos zur Einschreibung/Bewerbung für internationale Bewerber\*innen
+
+[Jetzt informieren](https://studium.ruhr-uni-bochum.de/de/bewerbung-zum-master-fuer-internationale)
+
+Worum geht's?
+
+**Dieser Studiengang ist einzigartig, weil ...**
+
+er Europas einziger regulärer universitärer Master in ‚Sales Management‘ ist und sehr praxisorientiert ausgerichtet ist, um zukünftige Vertriebs-Manager, Consultants, Start-Up Gründer und Forscher auszubilden. Unsere Partnerunternehmen sind beispielsweise Hilti, UPS, Brenntag, CWS, Vorwerk, Rhenus Logistics, Coroplast, Telekom und Geberit.
+
+**Er bietet eine Vertiefung in den Bereichen ...**
+
+[Studienverlaufsplan](https://smd.rub.de/mastermodule-2/)
+
+[Modulhandbuch](https://www.wiwi.rub.de/stundenplaene-und-modulhandbuecher/)
+
+Zu wem passt's?
+
+**Wer diesen Studiengang studieren möchte,**
+
+bringt mit:
+
+* die Fähigkeit, komplexe Sachverhalte zu analysieren und lösungsorientiert zu arbeiten
+* den Willen, sich in andere Menschen hineinzuversetzen
+* ausgeprägte kommunikative Fähigkeit
+
+hat Spaß an:
+
+* dem Umgang mit Menschen und daran, selbstständig Herausforderungen im Vertriebskontext zu identifizieren, zu analysieren und hierfür Lösungen zu erarbeiten
+
+kämpft sich durch:
+
+* die Aneignung von Methodenwissen, das auf praxisorientierte Zusammenhänge angewendet wird
+* Außerdem lehrt der Studiengang ein hohes Maß an Selbstreflektion: Wie wirke ich auf andere? Wie entwickle ich meine kommunikativen Fähigkeiten weiter?
+
+**Dieser Studiengang ist für Absolvent\*innen der folgenden Fächer geeignet**
+
+* Betriebswirtschaft
+* Management and Economics
+* Marketing
+* Naturwissenschaften
+* (Wirtschafts-) Ingenieurwesen
+* (Wirtschafts-) Psychologie
+* Wirtschaftswissenschaft
+* vergleichbare Studiengänge
+
+**Wer einen Abschluss in diesem Studiengang hat, arbeitet häufig**
+
+* als Führungskraft im Vertrieb – national wie international
+* in Management- und Führungspositionen anderer Geschäftsbereiche
+* im Key-Account-Management
+* im Consulting
+* in der wissenschaftlichen Vertriebsforschung
+
+Und sonst?
+
+**Ein Praktikum ...**
+
+​Das Praktikum ist während des Studiums verpflichtend.
+
+**Ein Auslandsaufenthalt ...**
+kann freiwillig belegt werden.
+
+**Partneruniversitäten**
+
+Die Fakultät verfügt über ca. 20 Partneruniversitäten in Europa und Übersee.
+
+Wer hilft?
+
+**Studienfachberatung**
+
+Gebäude, Raum: GD 02/125
+
+Tel.: 0234 / 32-25327
+
+E-mail: [Mara.Hohmann@rub.de](mailto:Mara.Hohmann@rub.de "Mara.Hohmann@rub.de")
+
+[Webseite Studienfachberatung](https://smd.rub.de/masterstudiengang-sales-management/#Kontakt "#https://smd.rub.de/masterstudiengang-sales-management/#Kontakt#")
+
+**Kontakt zu Studierenden**
+
+Fachschaft: Wirtschaftswissenschaft
+
+Gebäude, Raum: GD 03/165
+
+Tel.: 0234 / 32-27854
+
+E-mail: [fsi@rub.de](mailto:fsi@rub.de "fsi@rub.de")
+
+[Webseite Fachschaft](https://fsi-wiwi.de/ "#https://fsi-wiwi.de/#")
+
+**Internet**
+
+[Homepage des Studiengangs](https://smd.rub.de/masterstudiengang-sales-management/ "#https://smd.rub.de/masterstudiengang-sales-management/#")
+
+
+
+---
+## Additional Information (External Source)
+
+
+[...](#)
+
+* [Startseite](http://ruhr-uni-bochum.de/de)
+  →
+* [Studium an der RUB](https://studium.ruhr-uni-bochum.de/de/)
+  →
+* [Bewerbung, Zulassung, Einschreibung](https://studium.ruhr-uni-bochum.de/de/bewerbung-bis-einschreibung-der-weg-die-rub)
+  →
+* [Master](https://studium.ruhr-uni-bochum.de/de/masterstudium-der-rub)
+  →
+* Bewerbung für zulassungsbeschränkte Master-Studiengänge
+
+[...](#)
+
+Bewerbung, Zulassung, Einschreibung
+
+# Bewerbung für zulassungsbeschränkte Master-Studiengänge
+
+Sie möchten Ihr Master-Studium an der Ruhr-Universität Bochum aufnehmen? Wenn Sie bereits ein grundständiges Studium abgeschlossen haben oder planen, dieses zeitnah abzuschließen, können Sie sich für zulassungsbeschränkte Studiengänge online bewerben.
+
+[### Sie haben ein Studium im Ausland abgeschlossen und keine deutsche Staatsbürgerschaft?](#)
+
+Bitte informieren Sie sich auf den Seiten für internationale Studienbewerber\*innen.
+
+[Internationale Bewerbung](https://studium.ruhr-uni-bochum.de/de/bewerbung-zum-master-fuer-internationale)
+
+**Inhalt**
+
+* [Bewerbung und Bewerbungsverfahren](#bewerbung)
+* [Zulassungsbeschränkungen, Voraussetzungen, Verfahrensergebnisse:](#infos)   
+  [Grundlegende Informationen zur Masterzulassung](#infos)
+
+[### Fristen](#)
+
+Die Onlinebewerbung ist nur in begrenzten Zeiträumen möglich:
+
+* Zum **Wintersemester**: Von Anfang Juni bis zum 15. Juli
+* Zum **Sommersemester**: Von Anfang Dezember bis zum 15. Januar
+* In einigen Verfahren können die entsprechenden Fristen länger sein. Beachten Sie die Bewerbungs- und Nachreichfristen in der Übersicht „[**Bewerbungs- und Nachreichfristen der NC- und Serviceverfahren-Masterstudiengänge**](https://studium.ruhr-uni-bochum.de/sites/studium.ruhr-uni-bochum.de/files/2025-12/Zulassungbeschr%C3%A4nkte%20und%20Serviceverfahren%20Master_SoSe%202026_0.pdf)“
+
+## Online bewerben
+
+Fast alle zulassungsbeschränkten Masterstudiengänge erfordern eine Bewerbung und Einschreibung über das neue RUB Bewerbungsportal. Erstellen Sie sich dort einen Account, um einen Studienplatz in Ihrem Wunschstudiengang zu beantragen.
+
+[RUB Bewerbungsportal](https://hio.ruhr-uni-bochum.de)
+
+**Wichtig:** Diese Angaben beziehen sich auf eine Bewerbung für das erste Fachsemester, das Verfahren weicht ab bei der [→ Bewerbung für zulassungsbeschränkte höhere Fachsemester](https://studium.ruhr-uni-bochum.de/de/hoehere-fachsemester).
+
+[### Verfahren in Kürze](#)
+
+1. **Erstellen Sie einen Account im neuen RUB Bewerbungsportal**, soweit Vergabe- oder Zulassungsverfahren für Ihren Wunschstudiengang nicht über ein/e Institut/Fakultät/Akademie abgewickelt wird (Übersicht unten auf dieser Seite).
+2. **Geben Sie Ihre Daten ein** und **laden Sie die notwendigen Unterlagen fristgerecht hoch.**
+3. **Halten Sie sich auf dem Laufenden,** wenn Sie Ihren Antrag vervollständigt haben, um keine Immatrikulationsfrist oder weitere Hinweise zu verpassen. Im Anschluss werden Ihre Unterlagen geprüft und Zulassungsverfahren durchgeführt.
+4. Nach erfolgreicher **Zulassung** erhalten Sie Informationen für Ihre [Einschreibung](https://studium.ruhr-uni-bochum.de/de/immatrikulation-einschreibung)/[Umschreibung](https://studium.ruhr-uni-bochum.de/de/umschreibung-studiengang-wechseln).
+
+## Grundlegende Informationen zur Masterzulassung
+
+Ob Ihr Wunschstudiengang zulassungsbeschränkt oder zulassungsfrei ist, erfahren Sie über das Portal [Studienangebot](http://studienangebot.rub.de/de/uebersicht?field_sg_abschluss_value%5B2%5D=2) und über unsere Übersicht:
+
+* [**Hier**](https://studium.ruhr-uni-bochum.de/sites/studium.ruhr-uni-bochum.de/files/2025-12/Zulassungbeschr%C3%A4nkte%20und%20Serviceverfahren%20Master_SoSe%202026_0.pdf) finden Sie die **Bewerbungs- und Nachreichfristen** **der Masterstudiengänge**, bis zu denen Ihre Bewerbungsunterlagen vollständig vorliegen müssen.
+
+In jedem Masterstudiengang müssen Sie Voraussetzungen erfüllen, die vor der Einschreibung überprüft werden müssen. Dazu gehört beispielsweise ein anerkannter (Bachelor-)Abschluss.
+
+* [Grundsätzliche Voraussetzungen für ein Masterstudium](https://studium.ruhr-uni-bochum.de/de/voraussetzungen-fuer-den-master)
+* [Studienplatz beantragen in einem zulassungsfreien Masterstudiengang](https://studium.ruhr-uni-bochum.de/de/studienplatz-beantragen-einem-zulassungsfreien-masterstudiengang)
+* Die Ruhr-Universität Bochum hat das Vergabeverfahren für die zulassungsbeschränkten Master-Studiengänge in einer [Satzung](https://studium.ruhr-uni-bochum.de/sites/studium.ruhr-uni-bochum.de/files/2025-09/AB-1692.pdf) geregelt.
+
+Einige Studiengänge haben darüber hinaus weitere inhaltliche Anforderungen gemäß Studien- und Prüfungsordnung, die Sie erfüllen müssen.
+
+* Informieren Sie sich frühzeitig über die Webseiten der Fakultät. Alle Informationen und Links finden Sie über das Portal [Studienangebot](http://studienangebot.rub.de/de/uebersicht?field_sg_abschluss_value%5B2%5D=2).
+
+Sie möchten – soweit möglich – im Vorfeld beurteilen, wie aussichtsreich Ihre Bewerbung ist?
+
+* Die Seite mit den [Ergebnissen der vergangenen Zulassungsverfahren (NC-Werte](https://studium.ruhr-uni-bochum.de/de/masterstudiengaenge-nc-werte)) gibt Ihnen eine Orientierung über die Verfahrensergebnisse der letzten Semester.
+
+Masterstudium an der RUB
+
+[Übersicht](/de/masterstudium-der-rub)
+
+[Übersicht](/de/masterstudium-der-rub)
+
+Zulassungsstelle
+
+*Bewerbungshotline*:  
+Tel.: [+49 234 3226644](tel:+492343226644)  
+Beratung auf Deutsch und Englisch  
+Montag bis Donnerstag  
+9 bis 16 Uhr  
+Freitag  
+9 bis 14 Uhr
+
+[Beratung der Zulassungsstelle](https://studium.ruhr-uni-bochum.de/de/kontakt-zur-zulassungsstelle)
+
+---
+
+Die Zulassungsstelle ist eine Einrichtung des [Studierendensekretariats](https://www.ruhr-uni-bochum.de/studierendensekretariat/index.html.de).

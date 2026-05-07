@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Master of Science</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/dist/style.min.css?1741883211" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/uzkerweiterungen.css?1741883212" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/griderweiterungen.css?1741883211" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/searchresult.css?1741883211" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/accordion.css?1741883211" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/powermail.3.css?1741883211" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/uzk2015/Resources/Public/Css/ns_twitter.css?1741883211" media="all">
+
+
+
+<script src="/typo3conf/ext/uzk2015/Resources/Public/Js/FileSaver.min.js?1741883211"></script>
+<script src="/typo3conf/ext/uzk2015/Resources/Public/Js/jsbiblio.js?1741883211"></script>
+<script src="/typo3conf/ext/uzk2015/Resources/Public/Js/autocomplete.js?1741883211"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+    var SB_GLOBAL_VARS = SB_GLOBAL_VARS || {};
+    SB_GLOBAL_VARS.screenResolutions = [320,480,640,768,1024,1280,1440];
+    SB_GLOBAL_VARS.themePath = '/typo3conf/ext/uzk2015/Resources/Public/';
+    </script>
+        <link rel="shortcut icon" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/favicons/uzk/favicon-32x32.png" sizes="32x32"> 
+    <noscript>
+    <link rel="stylesheet" type="text/css" href="/typo3conf/ext/uzk2015/Resources/Public/Css/dist/icons.min.css">
+    </noscript>    
+    <script src="/typo3conf/ext/uzk2015/Resources/Public/Js/vendor/exclude/modernizr.min.js"></script>
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/departmentlogos/med2.svg" as="image">
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/departmentlogos/phil2.svg" as="image">
+
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg" as="image">
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/instagram.svg#instagram" as="image">
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/itunes.svg" as="image">
+      <link rel="preload" href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/linkedin.svg" as="image">
+      
+<!-- Matomo -->
+      <script>
+      
+      var _paq = window._paq || [];
+      _paq.push(['disableCookies']);
+      
+      
+      
+      
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+	var u="https://matomo.rrz.uni-koeln.de/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '24871']);
+	var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+/*
+	g.type='text/javascript'; 
+*/
+g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+      </script>
+<!-- End Matomo Code -->
+
+
+  
+
+
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="canonical" href="https://geographie.uni-koeln.de/studium/im-studium/studiengaenge/master-of-science"/>
+</head>
+<body class="uzk15__subsite default" id="p22705_0">
+<noscript>Die Seiten der Universität zu Köln sind auf die Verwendung mit JavaScript optimiert. Um alle Funktionen nutzen zu können, aktivieren Sie bitte JavaScript in Ihrem Browser.</noscript><div class="uzk15__overlay uzk15__invisible"></div>
+<header class="uzk15__mainheader uzk15__math" ><a href="#contentstart" class="uzk15__jumpinvisible">zum Inhalt springen</a><div class="uzk15__headerwrapper"><!--- Desktop Sticky Header Template Start -->
+			  <script id="uzk15__stickyheaderdesktoptemplate" type="text/template">
+               <div class="uzk15__headerdesktop uzk15__desktop_sticky uzk15__displaynone">
+                <div class="uzk15__mainwrapper">
+                 <div class="uzk15__grid_100 uzk15__flexcontainer"><div class="uzk15_headerlogo"><a href="https://uni-koeln.de" title="UNIVERSITÄT ZU KÖLN" class="uzk15__iconlink"><h1>UNIVERSITÄT ZU KÖLN</h1></a></div><div class="uzk15_contentright"><a href="#" class="uzk15__backtomain">zum Seitenanfang</a>
+
+
+
+
+<form action="https://www.uni-koeln.de/google-suche" role="search" class="uzk15__search uzk15__standardsearchform uzk15__webforms">
+  <label for="headermainsearch" id="headermainsearchlabel">
+    <span class="uzk15__invisible">
+      Suchbegriff eingeben
+    </span>
+  </label>
+  <input type="search" id="headermainsearch" name="q" value=""
+	 placeholder='Suchen mit Google'
+	 aria-labelledby="headermainsearchlabel">
+  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  <button type="submit" class="button">     
+    <span class="uzk15__invisible">Finden</span>
+    <span class="uzk15__icon uzk15__icon-search">
+      <svg>
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#lupe"></use>
+      </svg>
+    </span>
+  </button>
+</form>
+
+
+  
+
+</div></div>
+                </div>
+               </div>
+			  </script>
+	<!--- Desktop Sticky Header Template End --><!-- Mobile Templates Start --><script id="uzk15__headermobiletemplate" type="text/template">
+	      <div class="uzk15__headermobile">
+	        <div class="uzk15__mainwrapper"><div class="uzk15__grid_100 uzk15__flexcontainer"><h1><a href="https://uni-koeln.de" rel="start" title="UNIVERSITÄT ZU KÖLN">UNIVERSITÄT ZU KÖLN</a></h1>    <ul class="uzk15__menu">
+      <li>
+       <a href="#" class="uzk15__iconlink uzk15__mobilesearch-toggle">
+        <span class="uzk15__icon uzk15__icon-lupe">
+         <svg class="uzk15__svg-lupe">
+          <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#lupe"></use>
+         </svg>
+        </span>
+        <span class="uzk15__invisible">Suchen mit Google</span>
+       </a>
+       <a href="#" class="uzk15__iconlink uzk15__invisible uzk15__mobilesearch-toggle" aria-haspopup="true">
+        <span class="uzk15__icon uzk15__icon-schliessen">
+         <svg class="uzk15__svg-schliessen">
+          <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"></use>
+         </svg>
+        </span>
+        <span class="uzk15__invisible">Suche schließen</span>
+       </a>
+      </li>
+      <li>
+       <a href="#" class="uzk15__iconlink uzk15__mobilenavigationbutton" aria-haspopup="true">
+        <span class="uzk15__icon uzk15__icon-hamburger">
+         <svg class="uzk15__svg-hamburger">
+          <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#hamburger"></use>
+         </svg>
+        </span>
+        <span class="uzk15__invisible">Menü</span>
+       </a>
+      </li>
+    </ul></div><div class="uzk15__invisible uzk15__grid_100 uzk15__mobilesearch-wrapper">
+
+
+
+
+<form action="https://www.uni-koeln.de/google-suche" role="search" class="uzk15__search uzk15__standardsearchform uzk15__webforms">
+  <label for="headermainsearch" id="headermainsearchlabel">
+    <span class="uzk15__invisible">
+      Suchbegriff eingeben
+    </span>
+  </label>
+  <input type="search" id="headermainsearch" name="q" value=""
+	 placeholder='Suchen mit Google'
+	 aria-labelledby="headermainsearchlabel">
+  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  <button type="submit" class="button">     
+    <span class="uzk15__invisible">Finden</span>
+    <span class="uzk15__icon uzk15__icon-search">
+      <svg>
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#lupe"></use>
+      </svg>
+    </span>
+  </button>
+</form>
+</div></div>
+	      </div>
+	    </script><script id="uzk15__mainnavigationmobiletemplate" type="text/template">
+	    <div class="uzk15__mainnavigationmobile uzk15__pushedoutside">
+	      <div class="uzk15__mainnavigationwrapper">
+                <div class="uzk15__grid_100"><div class="uzk15__navigationtop"><div class="uzk15__breadcrumbs"><nav><h2 id="uzk15__mobilebreadcrumbslabel" class="uzk15__invisible">Sie sind hier:</h2><ul aria-describedby="uzk15__mobilebreadcrumbslabel"><li><a href="/studium" target="_top"><span>Studium</span>
+					 <span class="uzk15__icon uzk15__icon-trenner_breadcrumb">
+					  <svg class="uzk15__svg-trenner_breadcrumb">
+                       <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#trenner_breadcrumb"></use>
+					  </svg>
+					 </span></a></li><li><a href="/studium/im-studium" target="_top"><span>Im Studium</span>
+					 <span class="uzk15__icon uzk15__icon-trenner_breadcrumb">
+					  <svg class="uzk15__svg-trenner_breadcrumb">
+                       <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#trenner_breadcrumb"></use>
+					  </svg>
+					 </span></a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science" target="_top"><span>Master of Science</span>
+					 <span class="uzk15__icon uzk15__icon-trenner_breadcrumb">
+					  <svg class="uzk15__svg-trenner_breadcrumb">
+                       <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#trenner_breadcrumb"></use>
+					  </svg>
+					 </span></a></li></ul></nav></div>      <a href="#" class="uzk15__iconlink uzk15__mobilenavigationbutton">
+      <span class="uzk15__icon uzk15__icon-schliessen">
+           <svg class="uzk15__svg-schliessen">
+            <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"></use>
+           </svg>
+      </span>
+      <span class="uzk15__invisible">Schließen</span>
+      </a></div><div class="uzk15__currentpagetitle"><h1>Master of Science</h1></div><nav ><h2 class="uzk15__invisible">Hauptnavigation</h2><ul class="uzk15__mainnavigationlist"><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2015" target="_self">Nebenfächer MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2023-und-po-2025" target="_self">Nebenfächer MSc PO2023 und PO 2025</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2015" target="_self">Musterstudienplan MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2023" target="_self">Musterstudienplan MSc PO2023</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienziele-msc" target="_self">Studienziele MSc</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienaufbau-und-abfolge-msc" target="_self">Studienaufbau und -abfolge MSc</a></li></ul></nav><div class="uzk15__subsitelanguageselect">
+
+  
+
+</div></div>
+	      </div>
+	    </div>
+	  </script><!-- Mobile Templates End --><div class="uzk15__headerdesktop"><div class="uzk15__mainwrapper"><div class="uzk15__grid_100 uzk15__flexcontainer"><div class="uzk15_headerlogo_wrapper"><div class="uzk15_headerlogo"><a href="https://uni-koeln.de" target="_top" rel="start" title="UNIVERSITÄT ZU KÖLN" class="uzk15__iconlink"><span class="uzk15__icon uzk15__icon-uzk">
+           <svg class="uzk15__svg-uzk">
+            <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#uzk"></use>
+           </svg>
+          </span>
+        <h1>UNIVERSITÄT ZU KÖLN</h1></a></div></div><div class="uzk15_contentright">
+
+
+
+
+<form action="https://www.uni-koeln.de/google-suche" role="search" class="uzk15__search uzk15__standardsearchform uzk15__webforms">
+  <label for="headermainsearch" id="headermainsearchlabel">
+    <span class="uzk15__invisible">
+      Suchbegriff eingeben
+    </span>
+  </label>
+  <input type="search" id="headermainsearch" name="q" value=""
+	 placeholder='Suchen mit Google'
+	 aria-labelledby="headermainsearchlabel">
+  
+
+   
+  
+  
+  
+  
+  
+  
+  
+  <button type="submit" class="button">     
+    <span class="uzk15__invisible">Finden</span>
+    <span class="uzk15__icon uzk15__icon-search">
+      <svg>
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#lupe"></use>
+      </svg>
+    </span>
+  </button>
+</form>
+
+
+  
+
+</div></div></div></div><div class="uzk15__contentwrapper">
+	    <div class="uzk15__mainwrapper">
+	      <div class="uzk15__grid_100 uzk15__flexcontainer"><div class="uzk15__content"><h2><span class="uzk15__break uzk15__small uzk15__tinymobile"><a href="https://mathnat.uni-koeln.de">Mathematisch-Naturwissenschaftliche Fakultät</a></span><a href="/" target="_self">Geographisches Institut</a></h2>		<div class="uzk15__svgsignet">
+		  <a href="https://www.mathnat.uni-koeln.de/" class="uzk15__iconlink">
+		    <span class="uzk15__icon uzk15__icon-math">
+		      <svg class="uzk15__svg-math">
+		        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#math"/>
+		      </svg>
+		    </span>
+		  </a>
+		</div></div><nav class="uzk15__mainnavigation"  id="mainnavigation"><h2 class="uzk15__invisible">Hauptnavigation. Hinweis: bitte verwenden Sie Tab um die Menüpunkte anzuspringen.</h2><ul class="uzk15__firstlevellinks" role="menubar"><li class="uzk15__topleveldirektlink"><a href="/" target="_self">Start</a></li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >Institut</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/institut" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;Institut</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/forschung/arbeitsgruppen" target="_self">Arbeitsgruppen</a></li><li><a href="/institut/bibliothek" target="_self">Bibliothek</a></li><li><a href="/institut/kartographie" target="_self">Kartographie</a></li><li><a href="/institut/gebaeude" target="_self">Gebäude</a><ul class="uzk15__subpagelinks"><li><a href="/institut/gebaeude/rundbau" target="_self">Rundbau</a></li><li><a href="/institut/gebaeude/suedbau" target="_self">Südbau</a></li><li><a href="/institut/gebaeude/modulbau" target="_self">Modulbau</a></li><li><a href="/institut/gebaeude/uebungsraeume-und-hoersaele" target="_self">Übungsräume und Hörsäle</a></li></ul></li><li><a href="/institut/institutionen-und-kooperationen" target="_self">Institutionen und Kooperationen</a></li><li><a href="/institut/labore" target="_self">Labore</a><ul class="uzk15__subpagelinks"><li><a href="/institut/labore/physisch-geographisches-laboratorium" target="_self">Physisch-Geographisches Laboratorium</a></li><li><a href="/forschung/arbeitsgruppen/geomorphologie-und-geochronologie/lumineszenzlabor-cll" target="_self">Lumineszenzlabor (CLL)</a></li><li><a href="/forschung/arbeitsgruppen/gis-fernerkundung/kontakt" target="_self">GIS- und Fernerkundungslabore</a></li><li><a href="/institut/labore/ausseruniversitaerer-lernstandort-pulheimer-bach" target="_self">Außeruniversitärer Lernstandort Pulheimer Bach</a></li></ul></li><li><a href="/institut/sammlung-geraeteausleihe" target="_self">Sammlung & Geräteausleihe</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende" target="_self">Technische Informationen für Mitarbeitende</a><ul class="uzk15__subpagelinks"><li><a href="/institut/technische-informationen-fuer-mitarbeitende/mailinglisten" target="_self">Mailinglisten</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/informationen-zu-e-mails" target="_self">Informationen zu E-Mails</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/informationen-zur-institutshomepage" target="_self">Informationen zur Institutshomepage</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/informationen-zu-ilias" target="_self">Informationen zu ILIAS</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/informationen-zu-klips" target="_self">Informationen zu KLIPS</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/corporate-design" target="_self">Corporate Design</a></li><li><a href="/institut/technische-informationen-fuer-mitarbeitende/uklan-wlan" target="_self">UKLAN, WLAN</a></li></ul></li><li><a href="/institut/informationen-zur-campuslizenz-esri-arcgis-pro" target="_self">Informationen zur  Campuslizenz esri (ArcGIS Pro)</a></li><li><a href="/institut/impressum" target="_self">Impressum</a></li></ul></div>
+				 </li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >Forschung</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/forschung" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;Forschung</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/forschung/arbeitsgruppen" target="_self">Arbeitsgruppen</a><ul class="uzk15__subpagelinks"><li><a href="/forschung/arbeitsgruppen/oekosystemforschung" target="_self">Ökosystemforschung</a></li><li><a href="/forschung/arbeitsgruppen/gis-fernerkundung" target="_self">GIS & Fernerkundung</a></li><li><a href="/forschung/arbeitsgruppen/wirtschaftsgeographie-und-umweltwandel" target="_self">Wirtschaftsgeographie und Umweltwandel</a></li><li><a href="/forschung/arbeitsgruppen/kuestenmorphologie-geoarchaeologie-und-geochronologie" target="_self">Küstenmorphologie, Geoarchäologie und Geochronologie</a></li><li><a href="/forschung/arbeitsgruppen/anthropogeographie-stadt-und-regionalentwicklung" target="_self">Anthropogeographie - Stadt und Regionalentwicklung</a></li><li><a href="/forschung/arbeitsgruppen/stadt-und-sozialgeographie" target="_self">Stadt- und Sozialgeographie</a></li><li><a href="/ag-mansfeldt" target="_self">Bodengeographie / Bodenkunde</a></li><li><a href="/forschung/arbeitsgruppen/geomorphologie-und-geochronologie" target="_self">Geomorphologie und Geochronologie</a></li><li><a href="/forschung/arbeitsgruppen/wirtschaftsgeographie-und-globaler-sueden" target="_self">Wirtschaftsgeographie und Globaler Süden</a></li><li><a href="/forschung/arbeitsgruppen/critical-zone-research" target="_self">Critical Zone Research</a></li><li><a href="/forschung/arbeitsgruppen/hydrogeographie-und-klimatologie" target="_self">Hydrogeographie und Klimatologie</a></li></ul></li><li><a href="/forschung/aktuelle-forschungsprojekte" target="_self">Aktuelle Forschungsprojekte</a><ul class="uzk15__subpagelinks"><li><a href="/forschung/aktuelle-forschungsprojekte/campusgis2" target="_self">CampusGIS2</a></li><li><a href="/forschung/aktuelle-forschungsprojekte/abgeschlossene-forschungsprojekte" target="_self">Abgeschlossene Forschungsprojekte</a></li></ul></li><li><a href="/forschung/publikationen" target="_self">Publikationen</a><ul class="uzk15__subpagelinks"><li><a href="/forschung/publikationen/koelner-geographische-arbeiten" target="_self">Kölner Geographische Arbeiten</a></li><li><a href="/forschung/publikationen/kga-sonderfolge-afrika" target="_self">KGA Sonderfolge Afrika</a></li><li><a href="/forschung/publikationen/jahresberichte" target="_self">Jahresberichte</a></li></ul></li><li><a href="/forschung/habilitationen-am-institut" target="_self">Habilitationen am Institut</a></li></ul></div>
+				 </li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >Studium</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/studium" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;Studium</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/studium" target="_self">Studium Geographie</a><ul class="uzk15__subpagelinks"><li><a href="/studium" target="_self">Übersicht</a></li></ul></li><li><a href="/studium/vor-dem-studium" target="_self">Vor dem Studium</a><ul class="uzk15__subpagelinks"><li><a href="/studium/vor-dem-studium" target="_self">Übersicht</a></li><li><a href="/studium/vor-dem-studium/was-ist-geographie" target="_self">Was ist Geographie?</a></li><li><a href="/studium/vor-dem-studium/wo-arbeiten-geographen" target="_self">Wo arbeiten Geographen?</a></li><li><a href="/studium/vor-dem-studium/warum-geographie-in-koeln" target="_self">Warum Geographie in Köln?</a></li><li><a href="/studium/vor-dem-studium/checkliste-geographiestudium" target="_self">Checkliste Geographiestudium</a></li><li><a href="/studium/vor-dem-studium/linkliste-studentenleben" target="_self">Linkliste Studentenleben</a></li></ul></li><li><a href="/studium/im-studium" target="_self">Im Studium</a><ul class="uzk15__subpagelinks"><li><a href="/studium/im-studium" target="_self">Übersicht</a></li><li><a href="/studium/im-studium/good-scientific-practice" target="_self">Good Scientific Practice</a></li><li><a href="/studium/im-studium/zitieranleitung" target="_self">Zitieranleitung</a></li><li><a href="/studium/im-studium/ausleihe-von-geraeten" target="_self">Ausleihe von Geräten</a></li><li><a href="/studium/im-studium/gelaendeerfahrung" target="_self">Geländeerfahrung</a></li><li><a href="/studium/im-studium/bafoeg" target="_self">BAföG</a></li></ul></li><li><a href="/studium/nach-dem-studium" target="_self">Nach dem Studium</a><ul class="uzk15__subpagelinks"><li><a href="/studium/nach-dem-studium" target="_self">Übersicht</a></li><li><a href="/studium/nach-dem-studium/berufe-fuer-geographinnen-im-internet" target="_self">Berufe für GeographInnen im Internet</a></li><li><a href="/studium/nach-dem-studium/bewerbung" target="_self">Bewerbung</a></li><li><a href="/studium/nach-dem-studium/netzwerk-von-geographinnen" target="_self">Netzwerk von GeographInnen</a></li></ul></li></ul></div>
+				 </li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >Personal</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/personal" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;Personal</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/forschung/arbeitsgruppen/geomorphologie-und-geochronologie/team/reimann-tony-prof-dr" target="_self">Geschäftsführender Direktor</a></li><li><a href="/personal/professor-innen" target="_self">Professor/-innen</a></li><li><a href="/personal/wissenschaftliche-mitarbeiter-innen" target="_self">Wissenschaftliche Mitarbeiter/-innen</a></li><li><a href="/personal/sekretariate-kartographie-bibliothek" target="_self">Sekretariate, Kartographie, Bibliothek</a></li></ul></div>
+				 </li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >International</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/international" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;International</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/international/auslandsaufenthalte-fuer-koelner-studierende" target="_self">Auslandsaufenthalte für Kölner Studierende</a><ul class="uzk15__subpagelinks"><li><a href="/international/auslandsaufenthalte-fuer-koelner-studierende/studium-im-europaeischen-ausland" target="_self">Studium im europäischen Ausland</a></li><li><a href="/international/auslandsaufenthalte-fuer-koelner-studierende/studieren-in-kanada" target="_self">Studieren in Kanada</a></li><li><a href="/international/auslandsaufenthalte-fuer-koelner-studierende/praktika-im-ausland" target="_self">Praktika im Ausland</a></li><li><a href="/international/auslandsaufenthalte-fuer-koelner-studierende/abschlussarbeiten-im-ausland" target="_self">Abschlussarbeiten im Ausland</a></li></ul></li><li><a href="/international/gaststudierende" target="_self">Gaststudierende</a><ul class="uzk15__subpagelinks"><li><a href="/international/gaststudierende/semesterdaten" target="_self">Semesterdaten</a></li><li><a href="/international/gaststudierende/die-wahl-der-kurse" target="_self">Die Wahl der Kurse</a></li><li><a href="/international/gaststudierende/kosten-und-finanzierung" target="_self">Kosten und Finanzierung</a></li><li><a href="/international/gaststudierende/sprachkurse-fuer-deutsch" target="_self">Sprachkurse für Deutsch</a></li><li><a href="/international/gaststudierende/raeume-und-gebaeude-des-geographischen-instituts" target="_self">Räume und Gebäude des Geographischen Instituts</a></li></ul></li><li><a href="/international/gastwissenschaftler-und-doktorandinnen" target="_self">Gastwissenschaftler und DoktorandInnen</a></li><li><a href="/international/ideal-international-digital-education-and-learning" target="_self">IDEaL: International Digital Education and Learning</a></li><li><a href="/international/internationalisierung-am-geographischen-institut" target="_self">Internationalisierung am Geographischen Institut</a></li><li><a href="/international/kooperationen" target="_self">Kooperationen</a></li></ul></div>
+				 </li><li class="uzk15__toplevelflyout">
+				  <a href="#" role="menuitem" aria-haspopup="true" >Öffentlichkeit</a>
+				  <div class="uzk15__flyoutwrapper uzk15__pushedout"><div class="uzk15__flyouttop"><a href="/oeffentlichkeit" target="_self" class="uzk15__overviewlink">Zur Übersichtsseite&nbsp;Öffentlichkeit</a>				  <a class="uzk15__iconlink uzk15__navigationtoggle" href="#" title="Menü schließen">
+                <span class="uzk15__invisible">Menü schließen</span>
+                   <span class="uzk15__icon uzk15__icon-schliessen">
+                    <svg class="uzk15__svg-schliessen">
+				     <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#schliessen"/>
+                    </svg>
+                   </span>
+                  </a>
+				 </div><ul class="uzk15__section uzk15__pagelinks uzk15__links"><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps" target="_self">Bürgerwissenschaften auf LEAPs</a><ul class="uzk15__subpagelinks"><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/app-uebersicht" target="_self">App Übersicht</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/app-nutzung" target="_self">App Nutzung</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/app-datenzugang" target="_self">App Datenzugang</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/flehbach-leap" target="_self">Flehbach LEAP</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/stadklima-koeln-leap-cubik" target="_self">Stadklima Köln LEAP (Cubik)</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/klima-leap-koeln-sommerfest-gartenlabor-2019" target="_self">Klima LEAP Köln Sommerfest Gartenlabor 2019</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/beispiel-klima-leap-schule" target="_self">Beispiel Klima LEAP Schule</a></li><li><a href="/oeffentlichkeit/buergerwissenschaften-auf-leaps/klima-leap-hhg" target="_self">Klima LEAP HHG</a></li></ul></li><li><a href="https://www.instagram.com/geo.uzk/">Instagram</a></li><li><a href="/oeffentlichkeit/geonauten-der-geographie-podcast" target="_self">Geonauten - der Geographie Podcast</a></li><li><a href="/oeffentlichkeit/globeuzk-forschendes-lernen-fuer-lehramtsstudierende-und-schulpraxis" target="_self">GLOBE@UzK Forschendes Lernen für Lehramtsstudierende und Schulpraxis</a></li><li><a href="/oeffentlichkeit/pulchra-lehrmaterialien-fuer-nachhaltigkeit-und-partizipation" target="_self">PULCHRA: Lehrmaterialien für Nachhaltigkeit und Partizipation</a></li><li><a href="/oeffentlichkeit/das-cool-city-lab" target="_self">Das Cool City Lab</a></li><li><a href="/oeffentlichkeit/motivate-and-attract-students-to-science-lehrmaterialien-fuer-den-unterricht" target="_self">Motivate and Attract Students to Science: Lehrmaterialien für den Unterricht</a></li><li><a href="/oeffentlichkeit/schulkooperationen-und-lehrmaterialien-fuer-schulen" target="_self">Schulkooperationen und Lehrmaterialien für Schulen</a></li><li><a href="/oeffentlichkeit/studium-und-lehre" target="_self">Studium und Lehre</a></li></ul></div>
+				 </li></ul><a href="#contentstart" class="uzk15__jumpinvisible">zum Inhalt springen</a><a href="#subnavigation" class="uzk15__jumpinvisible">zum Menü der Unterseiten springen</a></nav></div>
+	    </div>
+	  </div></div></header>
+<div class="uzk15__contentwrapper">
+  <div class="uzk15__mainwrapper">
+    <div class="uzk15__aheadcontent" id="contentstart"><div class="uzk15__grid_100"><nav  class="uzk15__breadcrumbs uzk15__clearfix"><h2 id="uzk15__mainbreadcrumbslabel" class="uzk15__invisible">Sie sind hier:</h2><ul aria-describedby="uzk15__mainbreadcrumbslabel" class="uzk15__breadcrumbslist"><li><a href="/studium" target="_top" class="uzk15__link"><span>Studium</span></a>
+	<a href="#navcount13228" class="uzk15__subnav" title="Unterseiten anzeigen" aria-haspopup="true" aria-expanded="false">
+	<span class="uzk15__plus"></span>
+	<span class="uzk15__invisible">Unterseiten anzeigen</span></a><ul class="uzk15__aditionallinks" id="navcount13228"><li><a href="/studium" target="_top">Studium Geographie</a></li><li><a href="/studium/vor-dem-studium" target="_top">Vor dem Studium</a></li><li><a href="/studium/im-studium" target="_top">Im Studium</a></li><li><a href="/studium/nach-dem-studium" target="_top">Nach dem Studium</a></li></ul></li><li><a href="/studium/im-studium" target="_top" class="uzk15__link"><span>Im Studium</span></a>
+	<a href="#navcount22395" class="uzk15__subnav" title="Unterseiten anzeigen" aria-haspopup="true" aria-expanded="false">
+	<span class="uzk15__plus"></span>
+	<span class="uzk15__invisible">Unterseiten anzeigen</span></a><ul class="uzk15__aditionallinks" id="navcount22395"><li><a href="/studium/im-studium" target="_top">Übersicht</a></li><li><a href="/studium/im-studium/good-scientific-practice" target="_top">Good Scientific Practice</a></li><li><a href="/studium/im-studium/zitieranleitung" target="_top">Zitieranleitung</a></li><li><a href="/studium/im-studium/ausleihe-von-geraeten" target="_top">Ausleihe von Geräten</a></li><li><a href="/studium/im-studium/gelaendeerfahrung" target="_top">Geländeerfahrung</a></li><li><a href="/studium/im-studium/bafoeg" target="_top">BAföG</a></li></ul></li><li><a href="/studium/im-studium/studiengaenge/master-of-science" target="_top" class="uzk15__link"><strong>Master of Science</strong></a><ul class="uzk15__aditionallinks" id="navcount22705"><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2015" target="_top">Nebenfächer MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2023-und-po-2025" target="_top">Nebenfächer MSc PO2023 und PO 2025</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2015" target="_top">Musterstudienplan MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2023" target="_top">Musterstudienplan MSc PO2023</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienziele-msc" target="_top">Studienziele MSc</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienaufbau-und-abfolge-msc" target="_top">Studienaufbau und -abfolge MSc</a></li></ul></li></ul></nav></div></div>
+    <main id="contentstart" class="uzk15__maincontent" >
+	<!--  CONTENT ELEMENT, uid:37907/text [begin] -->
+		<!-- frame_class:default--><!-- beginn des elementes --><div class="uzk15__editorblock default "><h1 id="c37907" class="uzk15__standard_h1 uzk15_header_">Master of Science</h1>
+		<!--  Text: [begin] -->
+			<p class="bodytext"></p><figure class="table"><table class="contenttable"><tbody><tr><td>Studienbeginn:</td><td>NEU: ab WiSe 23/24 nur noch zum Wintersemester !!!</td></tr><tr><td>Studiendauer:</td><td>4 Semester (Vollzeit)</td></tr><tr><td>Leistungspunkte:</td><td>120 LP (Fachstudium 72 LP, 1 Nebenfach mit 18 LP, Masterarbeit 30 LP)</td></tr></tbody></table><p class="bodytext"></p></figure>
+
+<p class="bodytext">Der 1-Fach Master of Science Geographie zielt auf den Erwerb von Kenntnissen im Bereich der Physischen Geographie, der Anthropogeographie, der Mensch-Umwelt-Beziehungen und der spezifischen Fachmethoden. Das Studium befähigt die Studierenden zur eigenständigen wissenschaftlichen Tätigkeit, zur Analyse und kritischen Bewertung wissenschaftlicher Erkenntnisse, zur zielorientierten Anwendung wissenschaftlicher Arbeitsmethoden und zur Bearbeitung raumbezogener Probleme unter besonderer Berücksichtigung ihrer gesellschafts- und naturwissenschaftlichen Aspekte.</p>
+<p class="uzk15__dark_mathnat">WICHTIG: Ab WiSe 25/26 sind Erstsemester Studierende automatisch nach der PO 2025 eingeschrieben!</p>
+<p class="bodytext">Nach PO 2025&nbsp; können <strong>zwei Schwerpunkte</strong> studiert werden:&nbsp;</p>
+<p class="bodytext"></p><ul><li>Humangeographie - Stadt-, Wirtschafts- und Regionalentwicklung</li><li>Physische Geographie - Landschaftsentwicklung, Umweltressourcen, Nachhaltigkeit</li></ul>
+
+<p class="bodytext">Der MSc Geographie kann auch OHNE Schwerpunkt studiert werden!</p>
+<p class="bodytext"></p><ul><li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/MSc_Einfuehrung_Erstsemester_WiSe25_26.pdf">Folien der Info Veranstaltung für Erstsemester im WiSe 25/26</a></li></ul>
+		<!--  Text: [end] -->
+			</div><!-- ende des elementes -->
+	<!--  CONTENT ELEMENT, uid:37907/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:37906/text [begin] -->
+		<!-- frame_class:default--><!-- beginn des elementes --><div class="uzk15__editorblock default "><h2 id="c37906" class="uzk15__standard_h2 uzk15_header_">Wechsel BSc => MSc</h2>
+		<!--  Text: [begin] -->
+			<p class="bodytext">Wenn Sie sich für den MSc Geographie an der Universität zu Köln bewerben möchten, bedenken Sie bitte, dass Sie all Ihre Bachelorleistungen bis spätestens 30. September (bei einem MSc-Start zum Wintersemester) bzw. bis spätestens 31. März (bei einem MSc-Start zum Sommersemester) erbracht haben müssen. Sie dürfen nicht parallel in zwei Studiengänge eingeschrieben sein und müssen für den Start in das Masterstudium natürlich das Bachelorstudium abgeschlossen haben.<br> <br> Wenn zu den genannten Fristen noch Bewertungen/Noten, Gutachten oder die Erstellung der Abschlussdokumente ausstehen, ist das unproblematisch. Zu beachten ist dann allerdings, dass Sie vor Beginn des zweiten MSc-Semesters Ihr BSc-Abschlusszeugnis beim Studierendensekretariat vorzeigen müssen.</p>
+		<!--  Text: [end] -->
+			</div><!-- ende des elementes -->
+	<!--  CONTENT ELEMENT, uid:37906/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:41374/text [begin] -->
+		<!-- frame_class:default--><!-- beginn des elementes --><div class="uzk15__editorblock default "><h1 id="c41374" class="uzk15__standard_h1 uzk15_header_">Wichtige Informationen zum MSc nach PO 2023 und PO 2025</h1>
+		<!--  Text: [begin] -->
+			<p class="bodytext"></p><ul><li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/Bewerbungsformular_MSc_PO2023.pdf">PDF Bewerbungsformular</a>&nbsp;(Bewerbungen über <a href="https://klips2.uni-koeln.de" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">Klips 2.0</a> für ein Wintersemester bis 15.07.)</li><li><a href="/sites/geographie/Studium/Master_of_Science/MZO_Geographie_AM_2023-78.pdf" title="Zulassungsordnung">Zulassungsordnung</a></li><li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/AM_2025-85_AeO_MPO_Geographie.pdf">Prüfungsordnung 2025</a></li><li><a href="/sites/geographie/Studium/Master_of_Science/AM_2023-39_MPO_Geographie.pdf">Prüfungsordnung 2023</a></li><li><a href="/sites/geographie/Studium/Master_of_Science/MHB_20230224_MSc_Geographie.pdf">Modulhandbuch</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2023-und-po-2025">Nebenfächer</a></li><li><a href="/studium-alt/studienberatung/master-of-science" class="internal-link" title="Opens internal link in current window">Studienberatung</a></li><li><a href="http://www.geosciences.uni-koeln.de/examinationoffices1.html" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">Prüfungsamt Department Geowissenschaften</a></li><li>Belegung von Veranstaltungen über&nbsp;<a href="https://klips2.uni-koeln.de/co/webnav.ini" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">Klips 2.0</a></li><li>Berufspraktikum<ul><li><a href="/sites/geographie/Studium/Bachelor_of_Arts/2025-Info_SoSe_ilias.pdf">Informationen zum Berufspraktikum</a></li><li><a href="/sites/geographie/Studium/Bachelor_of_Science/2025-Anforderungen_Berufspraktikum_NEUdocx.pdf">Anforderungen Berufspraktikum</a></li><li><a href="/sites/geographie/Studium/Bachelor_of_Arts/Laufzettel_Berufspraktikum_PO2023NEU.pdf">Laufzettel Berufspraktikum</a></li></ul></li><li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/Laufzettel_Forschungsseminar_MSC_Geographie_PO2023.pdf">Laufzettel Forschungsseminar</a></li><li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/Anmeldung_Masterarbeit_PO_2023_neues_Layout.pdf">Anmeldebogen Masterarbeit</a>; zur Anmeldung bitte persönlich mit dem ausgefüllten Anmeldebogen im Prüfungsamt Geowissenschaften erscheinen (Sprechzeiten beachten oder Termin vereinbaren)</li></ul>
+
+<h4>Bei einem Wechsel von PO 2015 in die PO 2023 gilt die folgende Regelung zur Anerkennung: <a href="/sites/geographie/Studium/Master_of_Science/Anrechnungstabelle_MSc_PO2015nachPO2023.pdf">Tabelle zur Anerkennung</a></h4>
+<p class="bodytext">&nbsp;</p>
+<p class="bodytext">&nbsp;</p>
+		<!--  Text: [end] -->
+			</div><!-- ende des elementes -->
+	<!--  CONTENT ELEMENT, uid:41374/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:37905/text [begin] -->
+		<!-- frame_class:default--><!-- beginn des elementes --><div class="uzk15__editorblock default "><h2 id="c37905" class="uzk15__standard_h2 uzk15_header_">Wichtige Informationen zum MSc nach PO 2015:</h2>
+		<!--  Text: [begin] -->
+			<p class="bodytext"></p><ul> 	<li><a href="/sites/geographie/Studium/Master_of_Science/MSc_Zulassungsordnung_2015.pdf" class="download" title="Initiates file download">Zulassungsordnung</a></li> 	<li><a href="/sites/geographie/Studium/Master_of_Science/AM_2015_135_MPO_Geographie.pdf" class="download" title="Initiates file download">Prüfungsordnung 2015</a></li> 	<li><a href="/sites/geographie/user_upload/Kley/PO_MSc_Geographie_2018.pdf" class="download" title="Opens internal link in current window">1. Änderung PO 2015&nbsp;</a></li> 	<li><a href="/sites/geographie/Studium/Master_of_Science/Formulare/AM_2023-110_Auslaufordnung_Geographie_MSc_PO-2015.pdf">Auslaufordnung</a></li> 	<li><a href="/sites/geographie/Studium/Master_of_Science/MHB_MSc_Stand_20210708.pdf">Modulhandbuch</a></li> 	<li><a href="/studium-alt/im-studium-alt/studiengaenge/master-of-science/nebenfaecher-msc" class="internal-link" title="Opens internal link in current window">Nebenfächer</a></li> 	<li><a href="/studium-alt/studienberatung/master-of-science" class="internal-link" title="Opens internal link in current window">Studienberatung</a></li> 	<li><a href="http://www.geosciences.uni-koeln.de/examinationoffices1.html" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">Prüfungsamt Department Geowissenschaften</a></li> 	<li>Belegung von Veranstaltungen über&nbsp;<a href="https://klips2.uni-koeln.de/co/webnav.ini" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">Klips 2.0</a></li> 	<li><a href="/sites/geographie/Studium/Bachelor_of_Science/Anforderungen_Berufspraktikum.pdf">Anforderungen Berufspraktikum</a></li> 	<li>Laufzettel Forschungsseminar (<a href="/sites/geographie/Studium/Master_of_Science/Formulare/Laufzettel_Forschungsseminar_PO2015.pdf" class="download" title="Initiates file download">PO 2015</a>; <a href="/sites/geographie/Studium/Bachelor_of_Science/Formulare/Laufzettel_Master_PO_2015_Corona.pdf" target="_blank">PO 2015 Corona</a>, <a href="/sites/geographie/Studium/Master_of_Science/Formulare/Laufzettel_Forschungsseminar_PO2010.pdf" class="download" title="Initiates file download">PO 2010 und Wechsler</a>)</li> 	<li>Anmeldebogen Masterarbeit (<a href="/sites/geographie/Studium/Master_of_Science/Formulare/Anmeldung_Masterarbeit_PO_2015_ab_WS21_22.pdf">PO 2015</a>); zur Anmeldung bitte persönlich mit dem ausgefüllten Anmeldebogen im Prüfungsamt Geowissenschaften erscheinen (Sprechzeiten beachten oder Termin vereinbaren)</li> </ul>
+		<!--  Text: [end] -->
+			</div><!-- ende des elementes -->
+	<!--  CONTENT ELEMENT, uid:37905/text [end] -->
+		</main>
+    <aside class="uzk15__contextinfo" ><div class="uzk15__grid_100"><h2 class="uzk15__contextboxhead"><a href="#contextbox" id="contextboxtrigger">Weitere Informationen</a></h2></div><div id="contextbox" class="uzk15__contextbox"><div class="uzk15__grid_100"><span class="uzk15__invisible">Menü der Unterseiten:</span><div class="uzk15__submenu"><nav class="test2" id="subnavigation"><h2>Master of Science</h2><ul role="menu"><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2015" target="_self">Nebenfächer MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/nebenfaecher-msc-po2023-und-po-2025" target="_self">Nebenfächer MSc PO2023 und PO 2025</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2015" target="_self">Musterstudienplan MSc PO2015</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/musterstudienplan-msc-po2023" target="_self">Musterstudienplan MSc PO2023</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienziele-msc" target="_self">Studienziele MSc</a></li><li><a href="/studium/im-studium/studiengaenge/master-of-science/studienaufbau-und-abfolge-msc" target="_self">Studienaufbau und -abfolge MSc</a></li></ul></nav></div></div></div></aside>
+    <div class="uzk15__seperator"></div>
+  </div>
+  <div class="uzk15__seperator"></div>
+ <footer class="uzk15__mainfooter"><div class="uzk15__footersection1"><div class="uzk15__mainwrapper"><div class="uzk15__grid_100"><p class="uzk15__autordatum">Erstellt am:&nbsp;26. Juli 2022,&nbsp;zuletzt geändert am:&nbsp;16. Dezember 2025</p></div></div></div><div class="uzk15__footersection2">
+        <div class="uzk15__mainwrapper">
+        <div class="uzk15__grid_100">
+        <h2>Funktionen</h2>
+        <ul class="uzk15__columnlist"><li><a href="https://matomo.rrz.uni-koeln.de/index.php?module=CoreAdminHome&action=optOut&language=de">Tracking (de/)aktivieren</a></li><li><a href="https://itcc.uni-koeln.de/top/datenschutzhinweise-zu-webstatistiken">Datenschutzhinweise Webstatistiken</a></li></ul>
+        </div>
+        </div>
+        </div><div class="uzk15__footersection3"><div class="uzk15__mainwrapper"><div class="uzk15__grid_100"><h2 class="uzk15__triggerhead"><a href="#footercolumnlist" id="footertrigger">Die Universität zu Köln</a></h2><div class="uzk15__columnlist uzk15__hidebox" id="footerbox"><nav class='uzk15__footercolumn'>
+    <h3>Informationen für</h3>
+    <ul>
+        <li><a href="https://uni-koeln.de/studium" title="Studierende">Studierende</a></li>
+        <li><a href="https://studienorientierung.uni-koeln.de" title="Studieninteressierte">Studieninteressierte</a></li>
+        <li><a href="https://amc.uni-koeln.de/" title="Promotion">Promovierende</a></li>
+        <li><a href="https://uni-koeln.de/forschung" title="Forschung">Forschende</a></li>
+        <li><a href="https://international.uni-koeln.de/" title="International">Internationale Studierende</a></li>
+        <li><a href="https://alumni.uni-koeln.de/" title="Alumni">Alumni</a></li>
+        <li><a href="https://uni-koeln.de/foerdernde" title="Fördernde">Fördernde</a></li>
+        <li><a href="https://kommunikation-marketing.uni-koeln.de/index_ger.html" title="Presse und Marketing">Presse und Marketing</a></li>
+    </ul>
+</nav>
+<nav class='uzk15__footercolumn'>
+    <h3>Fakultäten</h3>
+    <ul>
+        <li><a href="https://wiso.uni-koeln.de/de/"
+                title="Wirtschafts- und Sozialwissenschaftliche Fakultät">Wirtschafts- und Sozialwissenschaftliche
+                Fakultät</a></li>
+        <li><a href="https://jura.uni-koeln.de/" title="Rechtswissenschaftliche Fakultät">Rechtswissenschaftliche
+                Fakultät</a></li>
+        <li><a href="https://medfak.uni-koeln.de/" title="Medizinische Fakultät">Medizinische Fakultät</a></li>
+        <li><a href="https://phil-fak.uni-koeln.de/" title="Philosophische Fakultät">Philosophische Fakultät</a></li>
+        <li><a href="https://mathnat.uni-koeln.de"
+                title="Mathematisch-Naturwissenschaftliche Fakultät">Mathematisch-Naturwissenschaftliche Fakultät</a>
+        </li>
+        <li><a href="https://www.hf.uni-koeln.de/" title="Humanwissenschaftliche Fakultät">Humanwissenschaftliche
+                Fakultät</a></li>
+    </ul>
+</nav>
+<nav class='uzk15__footercolumn'>
+    <h3>Schnellzugriff</h3>
+    <ul>
+        <li><a href="https://verwaltung.uni-koeln.de/" title="Verwaltung">Verwaltung</a></li>
+        <li><a href="https://verwaltung.uni-koeln.de/studsek/content/"
+                title="Studierendensekretariat">Studierendensekretariat</a></li>
+        <li><a href="https://uni-koeln.de/kontakt" title="Kontakt">Kontakt</a></li>
+        <li><a href="https://www.kstw.de/speiseplan" title="Mensa">Mensa</a></li>
+        <li><a href="https://ub.uni-koeln.de/index.html" title="Bibliothek">Bibliothek</a></li>
+        <li><a href="https://itcc.uni-koeln.de/" title="Regionales Rechenzentrum">Regionales Rechenzentrum</a></li>
+        <li><a href="https://uni-koeln.de/studium/studierende/studienorganisation/termine"
+                title="Terminkalender">Terminkalender</a></li>
+        <li><a href="https://webmail.uni-koeln.de" title="Webmail">Webmail</a></li>
+        <li><a href="https://uni-koeln.de/universitaet/anreise-lageplaene-kontakt"
+                title="Anreise, Lagepläne, Kontakt">Anreise, Lagepläne, Kontakt</a></li>
+    </ul>
+</nav></div></div></div></div><div class="uzk15__footersection4"><div class="uzk15__mainwrapper"><div class="uzk15__grid_100"><h2 class="uzk15__smallerheadlines">Social-Media-Kanäle der Universität zu Köln</h2><div class="uzk15__socialmedia"><a href="https://www.facebook.com/pages/Universit%C3%A4t-zu-K%C3%B6ln/180703865199" target="_blank" rel="noreferrer">	<span class="uzk15__icon uzk15__icon-facebook">
+	<svg class="uzk15__svg-facebook">
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#fb"></use>
+	</svg>
+	<span class="uzk15__invisible">Facebook</span>
+	</span></a><a href="https://www.xing.com/pages/universitatzukoln" target="_blank" rel="noreferrer">	<span class="uzk15__icon uzk15__icon-xing">
+	<svg class="uzk15__svg-xing">
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#xing"></use>
+	</svg>
+	</span>
+	<span class="uzk15__invisible">Xing</span></a><a href="https://www.youtube.com/user/UniversitaetzuKoeln" target="_blank" rel="noreferrer">	<span class="uzk15__icon uzk15__icon-youtube">
+	<svg class="uzk15__svg-youtube">
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/dist/svg-sprite.min.svg#youtube"></use>
+	</svg>
+	</span>
+	<span class="uzk15__invisible">Youtube</span></a><a href="https://www.linkedin.com/company/university-of-cologne?trk=biz-companies-cym">	<span class="uzk15__icon uzk15__icon-youtube">
+	<svg class="uzk15__svg-youtube" viewBox="0 0 20 20" width="30" height="30">
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/linkedin.svg#linkedin"></use>
+	</svg>
+	</span>
+	<span class="uzk15__invisible">Linked in</span></a><a href="https://www.instagram.com/uni_koeln/">	<span class="uzk15__icon uzk15__icon-instagram">
+	<svg class="uzk15__svg-youtube" viewBox="0 0 20 20" width="30" height="30">
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/instagram.svg#instagram"></use>
+	</svg>
+	</span>
+	<span class="uzk15__invisible">Instagram</span></a><a href="https://wisskomm.social/@unikoeln"><span class="uzk15__icon uzk15__icon-mastodon">
+  <svg class="uzk15__svg-youtube" viewBox="0 0 20 20" width="30" height="30">
+    <use xlink:href="/typo3conf/ext/uzk2015/Resources/Public/img/icons/svg/mastodon.svg#mastodon" />
+  </svg>
+</span></a></div><div class="uzk15__copyright"><nav class="uzk15__foot"><h2 class="uzk15__invisible">Serivce</h2><ul><li><a href="https://uni-koeln.de/datenschutz">Datenschutzerklärung</a></li><li><a href="https://uni-koeln.de/impressum/barrierefreiheit">Barrierefreiheitserklärung</a></li><li><a href="https://uni-koeln.de/sitemap">Sitemap</a></li><li><a href="https://uni-koeln.de/impressum">Impressum</a></li><li><a href="https://uni-koeln.de/kontakt">Kontakt</a></li></ul></nav><small>© Universität zu Köln</small></div><div class="uzk15__seperator"></div><div class="uzk15__accreditationlist">
+
+      <dl>
+            <dt>Vielfalt</dt>
+            <dd>
+                  <a href="https://vielfalt.uni-koeln.de/aktuelles/pressemitteilung-teq">
+                        Total E-Quality Prädikat
+                  </a>
+                  <a
+                        href="https://www.charta-der-vielfalt.de/ueber-uns/die-unterzeichner-innen/liste/zeige/universitaet-zu-koeln/">
+
+                        Charta der Vielfalt
+                  </a>
+                  <a
+                        href="https://vielfalt.uni-koeln.de/profil/strategie-steuerung/diversity-audit-vielfalt-gestalten">
+                        Diversity Audit
+                  </a>
+            </dd>
+      </dl>
+      <dl>
+            <dt>International</dt>
+            <dd>
+                  <a href="https://www.hrk.de/audit/infothek/auditierte-hochschulen/">
+                        <abbr title="Hochschulrektorenkonferenz">HRK </abbr>-Audit Internationalisierung
+                  </a>
+                  <a href="https://www.hrk.de/weltoffene-hochschulen">
+                        Weltoffene Hochschulen
+                  </a>
+            </dd>
+      </dl>
+      <dl>
+            <dt>Akkreditierung</dt>
+            <dd>
+                  <a href="https://wiso.uni-koeln.de/de/studium/master/master-international-management-cems-mim">
+                        <abbr title="Community of European Management Schools">CEMS</abbr>
+                  </a>
+                  <a href="https://wiso.uni-koeln.de/de/fakultaet/profil/akkreditierung">
+                        <abbr title="European Quality Improvement System">EQUIS</abbr>
+                  </a>
+                  <a href="https://www.aqas.de/">
+                        <abbr title="Agentur für Qualitätssicherung durch Akkreditierung von Studiengängen">AQAS</abbr>
+                  </a>
+                  <a href="https://uni-koeln.de/subportale/qualitaetsmanagement-lehre-studium/q3uzk/systemakkreditierung">
+                        Systemakkreditierung
+                  </a>
+            </dd>
+      </dl>
+      <dl>
+            <dt>Forschung</dt>
+            <dd>
+                  <a href="https://www.german-u15.de/">
+                        <abbr title="15 große forschungsstarke Universitäten Deutschlands">German U15</abbr>
+                  </a>
+                  <a href="https://uni-koeln.de/karriere/wer-wir-sind/unsere-personalstrategie">
+                        <abbr title="Human Resources">HR</abbr> Excellence in Research
+                  </a>
+            </dd>
+      </dl>
+      <dl>
+            <dt>Weitere</dt>
+            <dd>
+                  <a
+                        href="https://www.fairtrade-deutschland.de/service/presse/details/uni-koeln-ausgezeichnet-2713.html">
+                        Fairtrade University
+                  </a>
+                  <a
+                        href="https://verwaltung.uni-koeln.de/cfs/content/ueber_uns/unsere_netzwerke_und_partnerinnen/index_ger.html">
+                        Familie in der Hochschule
+                  </a>
+
+            </dd>
+      </dl>
+</div>
+</div></div></div></footer>
+</div>
+
+<script>const EXT_DIR = "/typo3conf/ext/uzk2015";</script>
+    <script src="/typo3conf/ext/uzk2015/Resources/Public/Js/dist/script-min.rrzk.10.js"></script>
+    <script src="/typo3conf/ext/uzk2015/Resources/Public/Js/uzkerweiterungen.js"></script>
+    <script>
+      var x = document.getElementsByClassName("uzk15__hidenoscript");
+      var i;
+      for (i = 0; i < x.length; i++) {
+        x[i].style.visibility = "initial";
+      }
+    </script>
+
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1753199855" defer="defer"></script>
+
+
+</body>
+</html>

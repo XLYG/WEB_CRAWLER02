@@ -1,0 +1,10 @@
+这次网页是动态加载+Cloudflare验证，验证逻辑是可信度，会直接把pw的纯净谷歌浏览器拦住
+不知道是哪一个环节没有通过，加上了历史记录和cookie存储也不行，可能是CF识别到了版本指纹自动化参数等
+最终采用远程调试的cdp模式，通过调试模式调用常用的谷歌浏览器进行全程内容获取
+pdf文件下载存在jwt保护，最终采用js来进行内存拉取
+
+脚本使用需要先关闭运行中的谷歌浏览器（最好关着）启动cmd之后运行下列指令打开远程调试模式：
+"C:\你的谷歌浏览器安装地址\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\指定的临时文件存放文件夹"
+"C:\Users\咸璃干\AppData\Local\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\01"
+然后在此浏览器中打开https://www.fh-aachen.de/en/studies/range-of-studies-offered/masters-degree-programmes
+然后运行脚本，其会自动抓取专业列表之后进行内容获取-申请要求获取-pdf下载
